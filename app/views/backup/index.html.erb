@@ -1,9 +1,23 @@
-<h1>BackupMyMail</h1>
+<% title "BackupMyMail" %>
 
-<p>Email Address:</p>
-<p>POP Mail Server:</p>
-<p>POP Username:</p>
-<p>POP Password:</p>
-<p>Use SSL? (checkbox)</p>
-<p>Port:</p>
-<p>Submit</p>
+<% form_tag fetch_path, :method => :post do |f| %>
+<p>
+  Email Address:
+  <%= text_field_tag "email" %>
+</p>
+<p>
+  POP Mail Server:
+  <%= text_field_tag "server" %>  
+</p>
+<p>POP Username:
+  <%= text_field_tag "username" %></p>
+<p>POP Password:
+  <%= password_field_tag "password" %></p>
+<p>Use SSL? (checkbox)
+  <%= check_box_tag "ssl" %></p>
+<p>Port:
+  <%= text_field_tag "port" %></p>
+
+<%= submit_tag "Submit" %>
+
+<% end %>

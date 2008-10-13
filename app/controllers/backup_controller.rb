@@ -1,9 +1,9 @@
-require 'net/pop'
-
 class BackupController < ApplicationController
-  def index
-    Net::POP3.start('pop.gmail.com', 995,
-                'worldracketeeringsquad@gmail.com', 'sylvia69') do |email|
-    end
+  def index    
+  end
+  
+  def fetch
+    @fetcher = Fetcher::Pop.new(:ssl => (params[:ssl]=="1"), :server => params[:server], :username => params[:username], :password => params[:password], :receiver => Backup)
+    @fetcher.fetch
   end
 end

@@ -1,19 +1,2357 @@
-Received: by 10.215.39.10 with HTTP; Mon, 13 Oct 2008 20:43:59 -0500
-Date: Mon, 13 Oct 2008 20:43:59 -0500
-From: Jeff Coleman <progressions@gmail.com>
+Return-Path: <04.23.395221982.776F726C647261636B6574656572696E67737175616440676D61696C2E636F6D@message.myspace.com>
+Received: by 10.215.39.10 with SMTP id r10cs2640qaj; Mon, 13 Oct 2008 21:59:32 -0500
+Received: by 10.151.85.18 with SMTP id n18cs815769ybl; Mon, 13 Oct 2008 21:59:32 -0500
+Received: from els2mmmsmlr0007 by vmta13.myspace.com id hug5h20f2m0i for <worldracketeeringsquad@gmail.com>; Mon, 13 Oct 2008 21:59:28 -0500
+Date: Mon, 13 Oct 2008 21:59:28 -0500
+From: MySpace <04.23.395221982.776F726C647261636B6574656572696E67737175616440676D61696C2E636F6D@message.myspace.com>
+Reply-To: MySpace <04.23.395221982.776F726C647261636B6574656572696E67737175616440676D61696C2E636F6D@message.myspace.com>
+To: worldracketeeringsquad@gmail.com
+Message-Id: <48f40b11.16538c0a.4ac3.0ce0SMTPIN_ADDED@mx.google.com>
+Subject: =?utf-8?B?QnJpZ2h0S25pZmUgIGhhcyBpbnZpdGVkIHlvdSB0bzogQnJpZ2h0S25pZmUgU2hvdw==?=
+Mime-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: Base64
+X-Campaignid: MySpace : 23
+X-Forwarded-For: worldracketeeringsquad@gmail.com progressions@gmail.com
+X-Forwarded-To: progressions@gmail.com
+Dkim-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=pmta; d=message.myspace.com; h=mime-version:from:to:reply-to:date:subject:content-type:content-transfer-encoding; i=04.23.395221982.776F726C647261636B6574656572696E67737175616440676D61696C2E636F6D@message.myspace.com; bh=GbTGitDyaKARWVldhyKdwK+9UI0=; b=ClHVdDLtnRjtwDAO5XnM3iSqo8UU22i/Bomt4g2t+wfRoNZAbLRK92NP9A+amZ2Id3LS+zS3vpSa lGpGz8e8XCX0rUwLWXz0WCqvJ53r0K3shOApYSu9pDAgR0xghORL2vkJoaaJ8Qy14HhM8G/tR3xQ K2tMVvDPdN4U28jAStk=
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of 04.23.395221982.776F726C647261636B6574656572696E67737175616440676D61696C2E636F6D@message.myspace.com designates 204.16.33.76 as permitted sender) smtp.mail=04.23.395221982.776F726C647261636B6574656572696E67737175616440676D61696C2E636F6D@message.myspace.com; dkim=neutral (no key) header.i=04.23.395221982.776F726C647261636B6574656572696E67737175616440676D61696C2E636F6D@message.myspace.com
+Domainkey-Signature: a=rsa-sha1; c=nofws; q=dns; s=pmta; d=message.myspace.com; b=JXZ7Omggs63sgQTgemvqr91aGo23Ct2ks58T7M5dvPDTFZhMp9def0AiqiLU1mh4HtXsXw/TeX2X HDMyVEgHl55vt9AG9mJp43CpXJy8mIno4r9c+STQkIcy27XwNoQ11JVT3omx6EWhZKNnKkCuHON4 Du8T2tkcRmyQG/WB/6M=;
+Received-Spf: pass (google.com: domain of 04.23.395221982.776F726C647261636B6574656572696E67737175616440676D61696C2E636F6D@message.myspace.com designates 204.16.33.76 as permitted sender) client-ip=204.16.33.76;
+Delivered-To: worldracketeeringsquad@gmail.com
+
+QnJpZ2h0S25pZmUgIGhhcyBpbnZpdGVkIHlvdSB0byBhbiBldmVudCBvbiBNeVNwYWNlOg0K
+DQpFdmVudDogQnJpZ2h0S25pZmUgU2hvdw0KVGltZTogT2N0b2JlciAxNiwgMjAwOCA5OjMw
+UE0NCkxvY2F0aW9uOiBSZWQgNywgNjExIEUgN3RoIFN0LCBBdXN0aW4sIFRleGFzIDc4NzAx
+DQoNClRvIFJTVlAgb3IgdmlldyB0aGUgaW52aXRhdGlvbiwgZ28gdG8gTXlTcGFjZTogDQpo
+dHRwOi8vZXZlbnRzLm15c3BhY2UuY29tL2luZGV4LmNmbT9mdXNlYWN0aW9uPWV2ZW50cy5k
+ZXRhaWwmZXZlbnRJRD00NjU3OTguMzE4NDgmaGFzaGNvZGU9OThCQUQ4NjUtMUQwQy00QzMy
+LTlFQ0QtOERERTUyRTkyOENCDQoNCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0NCg0KQXQg
+TXlTcGFjZSB3ZSBjYXJlIGFib3V0IHlvdXIgcHJpdmFjeS4gV2UgaGF2ZSBzZW50IHlvdSB0
+aGlzIG5vdGlmaWNhdGlvbiB0byBmYWNpbGl0YXRlIHlvdXIgdXNlIGFzIGEgbWVtYmVyIG9m
+IHRoZSBNeVNwYWNlLmNvbSBzZXJ2aWNlLiBJZiB5b3UgZG9uJ3Qgd2FudCB0byByZWNlaXZl
+IGVtYWlscyBsaWtlIHRoaXMgdG8geW91ciBleHRlcm5hbCBlbWFpbCBhY2NvdW50IGluIHRo
+ZSBmdXR1cmUsIGNoYW5nZSB5b3VyIEFjY291bnQgU2V0dGluZ3MgdG8gIkRvIG5vdCBzZW5k
+IG1lIG5vdGlmaWNhdGlvbiBlbWFpbHMuIg0KDQpDbGljayBoZXJlIHRvIGNoYW5nZSB5b3Vy
+IEFjY291bnQgU2V0dGluZ3M6DQpodHRwOi8vd3d3Lm15c3BhY2UuY29tL3JlbG9jLmNmbT9j
+PTIzDQoNCg0KWW91IGNhbiBhbHNvIGNvbnRhY3QgdXMgd2l0aCBhbnkgcXVlc3Rpb25zIG9y
+IGNvbmNlcm5zIHJlZ2FyZGluZyB5b3VyIHByaXZhY3kgYXQ6DQpwcml2YWN5QG15c3BhY2Uu
+Y29tDQoNCk15U3BhY2UsIEluYy4NCjgzOTEgQmV2ZXJseSBCbHZkLiAjMzQ5DQpMb3MgQW5n
+ZWxlcywgQ0EgOTAwNDgNClVTQSANCg0KwqkyMDAzLTIwMDggTXlTcGFjZS5jb20uIEFsbCBS
+aWdodHMgUmVzZXJ2ZWQuDQo=
+
+Return-Path: <04.23.395221982.70726F6772657373696F6E7340676D61696C2E636F6D@message.myspace.com>
+Received: by 10.215.39.10 with SMTP id r10cs2643qaj; Mon, 13 Oct 2008 21:59:35 -0500
+Received: from els2mmmsmlr0001 by vmta13.myspace.com id hug5h80f2i8k for <progressions@gmail.com>; Mon, 13 Oct 2008 21:59:27 -0500
+Date: Mon, 13 Oct 2008 21:59:27 -0500
+From: MySpace <04.23.395221982.70726F6772657373696F6E7340676D61696C2E636F6D@message.myspace.com>
+Reply-To: MySpace <04.23.395221982.70726F6772657373696F6E7340676D61696C2E636F6D@message.myspace.com>
+To: progressions@gmail.com
+Message-Id: <48f40b14.1f588c0a.3660.6d68SMTPIN_ADDED@mx.google.com>
+Subject: =?utf-8?B?QnJpZ2h0S25pZmUgIGhhcyBpbnZpdGVkIHlvdSB0bzogQnJpZ2h0S25pZmUgU2hvdw==?=
+Mime-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: Base64
+X-Campaignid: MySpace : 23
+Dkim-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=pmta; d=message.myspace.com; h=MIME-Version:From:To:Reply-To:Date:Subject:Content-Type:Content-Transfer-Encoding; i=04.23.395221982.70726F6772657373696F6E7340676D61696C2E636F6D@message.myspace.com; bh=wsh34i0oTfu//FP6lv+mvriupzo=; b=lT5M7tqFulm3qZo3ncUhyv7QKrn0p4XkpgZgSVX08LmGMuQk2V4CCHZvOkSGTL7aBKm7UZD/ODmP hCRV+kMomZ0lGw/JFwSP75WbRo9H/fvK1zflUhPDp0rdqZYVyjX6jg6FXo6zqL50eoqLKsFr2S2b wKNiWvskJpIrprOQfzg=
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of 04.23.395221982.70726F6772657373696F6E7340676D61696C2E636F6D@message.myspace.com designates 204.16.33.76 as permitted sender) smtp.mail=04.23.395221982.70726F6772657373696F6E7340676D61696C2E636F6D@message.myspace.com; dkim=neutral (no key) header.i=04.23.395221982.70726F6772657373696F6E7340676D61696C2E636F6D@message.myspace.com
+Domainkey-Signature: a=rsa-sha1; c=nofws; q=dns; s=pmta; d=message.myspace.com; b=n++S7Jx4Grogb0tMRCyI2HCOTJJLiveGmvLdjbyFWrSXRyiz1iOMEAVyGPDyQtq4U3nDi2LPJOb/ tgul9B88hGfP5Qz70fJTE2ysy7cx2EVuzOExKjudc+ou6foqVaBeWjJmmFOrxIa+CQCME8uLAiBR 6ojTxp+dLnqgaehNzaY=;
+Received-Spf: pass (google.com: domain of 04.23.395221982.70726F6772657373696F6E7340676D61696C2E636F6D@message.myspace.com designates 204.16.33.76 as permitted sender) client-ip=204.16.33.76;
+Delivered-To: progressions@gmail.com
+
+QnJpZ2h0S25pZmUgIGhhcyBpbnZpdGVkIHlvdSB0byBhbiBldmVudCBvbiBNeVNwYWNlOg0K
+DQpFdmVudDogQnJpZ2h0S25pZmUgU2hvdw0KVGltZTogT2N0b2JlciAxNiwgMjAwOCA5OjMw
+UE0NCkxvY2F0aW9uOiBSZWQgNywgNjExIEUgN3RoIFN0LCBBdXN0aW4sIFRleGFzIDc4NzAx
+DQoNClRvIFJTVlAgb3IgdmlldyB0aGUgaW52aXRhdGlvbiwgZ28gdG8gTXlTcGFjZTogDQpo
+dHRwOi8vZXZlbnRzLm15c3BhY2UuY29tL2luZGV4LmNmbT9mdXNlYWN0aW9uPWV2ZW50cy5k
+ZXRhaWwmZXZlbnRJRD00NjU3OTguMzE4NDgmaGFzaGNvZGU9RjM1MEJFMTQtNDA5QS00NTJB
+LUJGNkItREY3RTEyNEYzNzcxDQoNCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0NCg0KQXQg
+TXlTcGFjZSB3ZSBjYXJlIGFib3V0IHlvdXIgcHJpdmFjeS4gV2UgaGF2ZSBzZW50IHlvdSB0
+aGlzIG5vdGlmaWNhdGlvbiB0byBmYWNpbGl0YXRlIHlvdXIgdXNlIGFzIGEgbWVtYmVyIG9m
+IHRoZSBNeVNwYWNlLmNvbSBzZXJ2aWNlLiBJZiB5b3UgZG9uJ3Qgd2FudCB0byByZWNlaXZl
+IGVtYWlscyBsaWtlIHRoaXMgdG8geW91ciBleHRlcm5hbCBlbWFpbCBhY2NvdW50IGluIHRo
+ZSBmdXR1cmUsIGNoYW5nZSB5b3VyIEFjY291bnQgU2V0dGluZ3MgdG8gIkRvIG5vdCBzZW5k
+IG1lIG5vdGlmaWNhdGlvbiBlbWFpbHMuIg0KDQpDbGljayBoZXJlIHRvIGNoYW5nZSB5b3Vy
+IEFjY291bnQgU2V0dGluZ3M6DQpodHRwOi8vd3d3Lm15c3BhY2UuY29tL3JlbG9jLmNmbT9j
+PTIzDQoNCg0KWW91IGNhbiBhbHNvIGNvbnRhY3QgdXMgd2l0aCBhbnkgcXVlc3Rpb25zIG9y
+IGNvbmNlcm5zIHJlZ2FyZGluZyB5b3VyIHByaXZhY3kgYXQ6DQpwcml2YWN5QG15c3BhY2Uu
+Y29tDQoNCk15U3BhY2UsIEluYy4NCjgzOTEgQmV2ZXJseSBCbHZkLiAjMzQ5DQpMb3MgQW5n
+ZWxlcywgQ0EgOTAwNDgNClVTQSANCg0KwqkyMDAzLTIwMDggTXlTcGFjZS5jb20uIEFsbCBS
+aWdodHMgUmVzZXJ2ZWQuDQo=
+
+Return-Path: <kellyg@americanworkforce.com>
+Received: by 10.215.39.10 with SMTP id r10cs5321qaj; Mon, 13 Oct 2008 23:19:37 -0500
+Received: from localhost by audrey.iradix.com with ESMTP id B04E3276100 for <progressions@gmail.com>; Mon, 13 Oct 2008 23:19:53 -0500
+Received: from audrey.iradix.com by localhost with ESMTP id 17273-07 for <progressions@gmail.com>; Mon, 13 Oct 2008 23:19:48 -0500
+Received: from [10.0.1.194] by audrey.iradix.com with ESMTP id DC49427633D for <progressions@gmail.com>; Mon, 13 Oct 2008 23:19:47 -0500
+Date: Mon, 13 Oct 2008 23:14:43 -0500
+From: Kelly Geary <kellyg@americanworkforce.com>
 To: Jeff Coleman <progressions@gmail.com>
-Message-Id: <ac7a7d090810131843v65c35753h5126a36a97fa3119@mail.gmail.com>
-In-Reply-To: <ac7a7d090810131636v56d15414rf3675ea1670e825d@mail.gmail.com>
-References: <ac7a7d090810131636v56d15414rf3675ea1670e825d@mail.gmail.com>
-Subject: Re: another
+Message-Id: <CCAA9234-F457-4AA0-B74E-928B859CDA8A@americanworkforce.com>
+In-Reply-To: <ac7a7d090810131600n463e58b8n5e4213cd16a16876@mail.gmail.com>
+References: <2067B95A-7709-4FCA-8205-4DA0C30455EB@americanworkforce.com> <ac7a7d090810101157v6b56f919kbd838412c2347a5e@mail.gmail.com> <AABA5516-35BA-4A76-9735-92B1C317EE9F@americanworkforce.com> <ac7a7d090810131600n463e58b8n5e4213cd16a16876@mail.gmail.com>
+Subject: Re: Confirming you received project?
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary=mimepart_48f4e630b3330_d30241369a182
+X-Virus-Scanned: amavisd-new at iradix.com
+Authentication-Results: mx.google.com; spf=neutral (google.com: 67.152.26.200 is neither permitted nor denied by best guess record for domain of kellyg@americanworkforce.com) smtp.mail=kellyg@americanworkforce.com
+X-Mailer: Apple Mail (2.926)
+Received-Spf: neutral (google.com: 67.152.26.200 is neither permitted nor denied by best guess record for domain of kellyg@americanworkforce.com) client-ip=67.152.26.200;
+Delivered-To: progressions@gmail.com
+
+
+
+--mimepart_48f4e630b3330_d30241369a182
+Content-Type: text/plain; format=flowed; charset=US-ASCII; delsp=yes
+Content-Transfer-Encoding: 7bit
+
+Ok; great - I'll look forward to receiving it from you soon!
+
+Kelly Geary
+American Workforce Companies
+O: (512) 355-1499 ext. 102
+M: (512) 507-7709
+kellyg@americanworkforce.com
+We're Blogging: http://blog.AmericanWorkforce.com
+
+
+
+On Oct 13, 2008, at 6:00 PM, Jeff Coleman wrote:
+
+> Kelly,
+>
+> This project is something of a challenge for me, because I'm learning
+> a number of things I didn't previously know in order to get it done.
+> If all goes well I would estimate I can have it to you by Tuesday or
+> Wednesday at the latest.
+>
+> Thanks,
+> Jeff
+>
+> On Mon, Oct 13, 2008 at 5:47 PM, Kelly Geary
+> <kellyg@americanworkforce.com> wrote:
+>> Hi Jeff -
+>> Can you let me know when I can receive this from you? Typically,  
+>> candidates
+>> turn this around in 24-48 hours of receipt.
+>> Thanks,
+>> Kelly
+>>
+>> Kelly Geary
+>> American Workforce Companies
+>> O: (512) 355-1499 ext. 102
+>> M: (512) 507-7709
+>> kellyg@americanworkforce.com
+>> We're Blogging: http://blog.AmericanWorkforce.com
+>>
+>>
+>> On Oct 10, 2008, at 1:57 PM, Jeff Coleman wrote:
+>>
+>> I did receive it.  Thanks, Kelly!  I'll let you know when it's  
+>> finished.
+>>
+>> Jeff
+>>
+>> On Fri, Oct 10, 2008 at 1:43 PM, Kelly Geary
+>> <kellyg@americanworkforce.com> wrote:
+>>
+>> Hi Jeff -
+>>
+>> Just want to quickly confirm that you received the project I sent you
+>>
+>> yesterday evening.  Please let me know!
+>>
+>> Thanks,
+>>
+>> Kelly
+>>
+>> Kelly Geary
+>>
+>> American Workforce Companies
+>>
+>> O: (512) 355-1499 ext. 102
+>>
+>> M: (512) 507-7709
+>>
+>> kellyg@americanworkforce.com
+>>
+>> We're Blogging: http://blog.AmericanWorkforce.com
+>>
+>>
+>>
+>>
+>>
+>>
+>> --
+>> Jeff Coleman
+>> World Racketeering Squad
+>> http://www.worldracketeeringsquad.com
+>> http://www.youtube.com/worldracketeer
+>>
+>>
+>
+>
+>
+> -- 
+> Jeff Coleman
+> World Racketeering Squad
+> http://www.worldracketeeringsquad.com
+> http://www.youtube.com/worldracketeer
+
+
+
+--mimepart_48f4e630b3330_d30241369a182
+Content-Type: text/html; charset=US-ASCII
+Content-Transfer-Encoding: Quoted-printable
+
+<html><body style=3D"word-wrap: break-word; -webkit-nbsp-mode: space; =
+-webkit-line-break: after-white-space; ">Ok; great - I'll look forward =
+to receiving it from you soon!<div><br><div apple-content-edited=3D"true">=
+ <span class=3D"Apple-style-span" style=3D"border-collapse: separate; =
+color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; =
+font-style: normal; font-variant: normal; font-weight: normal; =
+letter-spacing: normal; line-height: normal; orphans: 2; text-align: =
+auto; text-indent: 0px; text-transform: none; white-space: normal; =
+widows: 2; word-spacing: 0px; -webkit-border-horizontal-spacing: 0px; =
+-webkit-border-vertical-spacing: 0px; =
+-webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: =
+auto; -webkit-text-stroke-width: 0; "><div style=3D"word-wrap: =
+break-word; -webkit-nbsp-mode: space; -webkit-line-break: =
+after-white-space; "><span class=3D"Apple-style-span" =
+style=3D"border-collapse: separate; color: rgb(0, 0, 0); font-family: =
+Helvetica; font-size: 12px; font-style: normal; font-variant: normal; =
+font-weight: normal; letter-spacing: normal; line-height: normal; =
+orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; =
+widows: 2; word-spacing: 0px; -webkit-border-horizontal-spacing: 0px; =
+-webkit-border-vertical-spacing: 0px; =
+-webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: =
+auto; -webkit-text-stroke-width: 0px; "><div style=3D"word-wrap: =
+break-word; -webkit-nbsp-mode: space; -webkit-line-break: =
+after-white-space; "><span class=3D"Apple-style-span" =
+style=3D"border-collapse: separate; color: rgb(0, 0, 0); font-family: =
+Helvetica; font-size: 12px; font-style: normal; font-variant: normal; =
+font-weight: normal; letter-spacing: normal; line-height: normal; =
+orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; =
+widows: 2; word-spacing: 0px; -webkit-border-horizontal-spacing: 0px; =
+-webkit-border-vertical-spacing: 0px; =
+-webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: =
+auto; -webkit-text-stroke-width: 0px; "><div><div style=3D"margin-top: =
+0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">Kelly =
+Geary</div><div style=3D"margin-top: 0px; margin-right: 0px; =
+margin-bottom: 0px; margin-left: 0px; ">American Workforce =
+Companies</div><div style=3D"margin-top: 0px; margin-right: 0px; =
+margin-bottom: 0px; margin-left: 0px; ">O: (512) 355-1499 ext. =
+102</div><div style=3D"margin-top: 0px; margin-right: 0px; =
+margin-bottom: 0px; margin-left: 0px; ">M: (512) 507-7709</div><div =
+style=3D"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; =
+margin-left: 0px; "><a =
+href=3D"kellyg@americanworkforce.com">kellyg@americanworkforce.com</a></di=
+v><div style=3D"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; =
+margin-left: 0px; ">We're Blogging: <a =
+href=3D"http://blog.AmericanWorkforce.com">http://blog.AmericanWorkforce.c=
+om</a></div><div style=3D"margin-top: 0px; margin-right: 0px; =
+margin-bottom: 0px; margin-left: 0px; =
+"><i><br></i></div></div></span></div></span></div></span><br =
+class=3D"Apple-interchange-newline"> </div><br><div><div>On Oct 13, =
+2008, at 6:00 PM, Jeff Coleman wrote:</div><br =
+class=3D"Apple-interchange-newline"><blockquote =
+type=3D"cite"><div>Kelly,<br><br>This project is something of a =
+challenge for me, because I'm learning<br>a number of things I didn't =
+previously know in order to get it done.<br>If all goes well I would =
+estimate I can have it to you by Tuesday or<br>Wednesday at the =
+latest.<br><br>Thanks,<br>Jeff<br><br>On Mon, Oct 13, 2008 at 5:47 PM, =
+Kelly Geary<br>&lt;<a =
+href=3D"mailto:kellyg@americanworkforce.com">kellyg@americanworkforce.com<=
+/a>> wrote:<br><blockquote type=3D"cite">Hi Jeff =
+-<br></blockquote><blockquote type=3D"cite">Can you let me know when I =
+can receive this from you? Typically, =
+candidates<br></blockquote><blockquote type=3D"cite">turn this around in =
+24-48 hours of receipt.<br></blockquote><blockquote =
+type=3D"cite">Thanks,<br></blockquote><blockquote =
+type=3D"cite">Kelly<br></blockquote><blockquote =
+type=3D"cite"><br></blockquote><blockquote type=3D"cite">Kelly =
+Geary<br></blockquote><blockquote type=3D"cite">American Workforce =
+Companies<br></blockquote><blockquote type=3D"cite">O: (512) 355-1499 =
+ext. 102<br></blockquote><blockquote type=3D"cite">M: (512) =
+507-7709<br></blockquote><blockquote type=3D"cite"><a =
+href=3D"mailto:kellyg@americanworkforce.com">kellyg@americanworkforce.com<=
+/a><br></blockquote><blockquote type=3D"cite">We're Blogging: <a =
+href=3D"http://blog.AmericanWorkforce.com">http://blog.AmericanWorkforce.c=
+om</a><br></blockquote><blockquote =
+type=3D"cite"><br></blockquote><blockquote =
+type=3D"cite"><br></blockquote><blockquote type=3D"cite">On Oct 10, =
+2008, at 1:57 PM, Jeff Coleman wrote:<br></blockquote><blockquote =
+type=3D"cite"><br></blockquote><blockquote type=3D"cite">I did receive =
+it. &nbsp;Thanks, Kelly! &nbsp;I'll let you know when it's =
+finished.<br></blockquote><blockquote =
+type=3D"cite"><br></blockquote><blockquote =
+type=3D"cite">Jeff<br></blockquote><blockquote =
+type=3D"cite"><br></blockquote><blockquote type=3D"cite">On Fri, Oct 10, =
+2008 at 1:43 PM, Kelly Geary<br></blockquote><blockquote =
+type=3D"cite">&lt;<a =
+href=3D"mailto:kellyg@americanworkforce.com">kellyg@americanworkforce.com<=
+/a>> wrote:<br></blockquote><blockquote =
+type=3D"cite"><br></blockquote><blockquote type=3D"cite">Hi Jeff =
+-<br></blockquote><blockquote type=3D"cite"><br></blockquote><blockquote =
+type=3D"cite">Just want to quickly confirm that you received the project =
+I sent you<br></blockquote><blockquote =
+type=3D"cite"><br></blockquote><blockquote type=3D"cite">yesterday =
+evening. &nbsp;Please let me know!<br></blockquote><blockquote =
+type=3D"cite"><br></blockquote><blockquote =
+type=3D"cite">Thanks,<br></blockquote><blockquote =
+type=3D"cite"><br></blockquote><blockquote =
+type=3D"cite">Kelly<br></blockquote><blockquote =
+type=3D"cite"><br></blockquote><blockquote type=3D"cite">Kelly =
+Geary<br></blockquote><blockquote =
+type=3D"cite"><br></blockquote><blockquote type=3D"cite">American =
+Workforce Companies<br></blockquote><blockquote =
+type=3D"cite"><br></blockquote><blockquote type=3D"cite">O: (512) =
+355-1499 ext. 102<br></blockquote><blockquote =
+type=3D"cite"><br></blockquote><blockquote type=3D"cite">M: (512) =
+507-7709<br></blockquote><blockquote =
+type=3D"cite"><br></blockquote><blockquote type=3D"cite"><a =
+href=3D"mailto:kellyg@americanworkforce.com">kellyg@americanworkforce.com<=
+/a><br></blockquote><blockquote type=3D"cite"><br></blockquote><blockquote=
+ type=3D"cite">We're Blogging: <a =
+href=3D"http://blog.AmericanWorkforce.com">http://blog.AmericanWorkforce.c=
+om</a><br></blockquote><blockquote =
+type=3D"cite"><br></blockquote><blockquote =
+type=3D"cite"><br></blockquote><blockquote =
+type=3D"cite"><br></blockquote><blockquote =
+type=3D"cite"><br></blockquote><blockquote =
+type=3D"cite"><br></blockquote><blockquote =
+type=3D"cite"><br></blockquote><blockquote =
+type=3D"cite">--<br></blockquote><blockquote type=3D"cite">Jeff =
+Coleman<br></blockquote><blockquote type=3D"cite">World Racketeering =
+Squad<br></blockquote><blockquote type=3D"cite"><a =
+href=3D"http://www.worldracketeeringsquad.com">http://www.worldracketeerin=
+gsquad.com</a><br></blockquote><blockquote type=3D"cite"><a =
+href=3D"http://www.youtube.com/worldracketeer">http://www.youtube.com/worl=
+dracketeer</a><br></blockquote><blockquote =
+type=3D"cite"><br></blockquote><blockquote =
+type=3D"cite"><br></blockquote><br><br><br>-- <br>Jeff Coleman<br>World =
+Racketeering Squad<br><a =
+href=3D"http://www.worldracketeeringsquad.com">http://www.worldracketeerin=
+gsquad.com</a><br>http://www.youtube.com/worldracketeer<br></div></blockqu=
+ote></div><br></div></body></html>=
+
+
+--mimepart_48f4e630b3330_d30241369a182--
+Return-Path: <notify@jott.com>
+Received: by 10.215.39.10 with SMTP id r10cs17497qaj; Tue, 14 Oct 2008 05:02:23 -0500
+Received: from jott-web-04 by jott.com; Tue, 14 Oct 2008 05:02:20 -0500
+Date: Tue, 14 Oct 2008 05:02:24 -0500
+From: Jott Networks <notify@jott.com>
+Sender: Jott Networks <notify@jott.com>
+Reply-To: Jott Networks <notify@jott.com>
+To: Progressions@gmail.com
+Message-Id: <1223978540.45353@jott.com>
+Subject: Please return to Jott!
+Mime-Version: 1.0
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: Quoted-printable
+X-Smheadermap: mid="X-MailingID"
+Dkim-Signature: v=1; a=rsa-sha1; c=simple; d=jott.com>; s=sm; i=@jott.com>; h=Message-ID:MIME-Version:From:Sender:To:Reply-To: Date:Subject:Content-Type:Content-Transfer-Encoding; bh=INE1dfSg hmB4TtFab+P69ERtKY4=; b=CQHz2ckXcJHCf3PFSdhmSi1MqrNL6xu4QJBZjc+G pBzO5M3+gv1+lJk3DgYfvHCBdGsjjKVg04q8lQrjarIjORcgG1KMsddsMXNsk2TZ MiIHTDIEDP/LRSNEvhi1k5yRXqgVUq5f7e+fjfrOgkVGbConPOC7qyn5QakXEtbK hao=
+X-Destination-Id: Progressions@gmail.com
+X-Smfbl: UHJvZ3Jlc3Npb25zQGdtYWlsLmNvbQ==
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of notify@jott.com designates 69.12.107.208 as permitted sender) smtp.mail=notify@jott.com; dkim=neutral header.i=@jott.com>
+Domainkey-Signature: a=rsa-sha1; c=nofws; s=sm; d=jott.com>; q=dns; b=dV3bgB57SgYti8X7SsbaF1LCMzLsS+BAX8aRDmny0NnFTdXg9dfAcJ2V31dNVOWoqQ3FYGh8i/xe/Nqbxo/q/PruooKx1+a537bNpl3vg5GuKNY0gvyQKkrOtO6+CFpPpt5aMkgUF3faLB+ApAPQbZiVjYMldVtGVZaRsS/4W3g=
+X-Mailingid: 00000::00000::00000::00000::::45352
+X-Mailer: StrongMail Enterprise 4.1.0(4.1.0-41174)
+Received-Spf: pass (google.com: domain of notify@jott.com designates 69.12.107.208 as permitted sender) client-ip=69.12.107.208;
+Delivered-To: progressions@gmail.com
+X-Virtualservergroup: Default
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">=
+=0D=0A<html xmlns=3D"http://www.w3.org/1999/xhtml">=0D=0A<head>=0D=0A	<!--=
+ email subject in the <title> tag -->=0D=0A	<title>Please return to Jott!</title>=
+=0D=0A</head>=0D=0A<body style=3D"margin:0;">=0D=0A=0D=0A<!-- start email=
+ -->=0D=0A=0D=0A<div style=3D"font-family:arial,sans-serif;color:#494949;padding:15px">=
+=0D=0A=0D=0A<p>Hi  ,</p>=0D=0A=0D=0A<p>It looks like you haven't used Jott=
+ in a while and we wanted to follow-up with a couple of tips that might=
+ make Jott more useful for you.  Below are some examples of how customers=
+ are integrating Jott into their lives to help them stay better organized=
+ and connected.  If our service didn't work for you for some reason, we'd=
+ love your <a href=3D"mailto:feedback@jott.com" style=3D"color:#f47d02;">feedback</a>.</p>=
+=0D=0A=0D=0A<p><b>3 Simple Steps to Take full advantage of Jott:</b></p>=
+=0D=0A=0D=0A<ol>=0D=0A	<li>Put Jott on speed dial so it's always at hand=
+ - (866) JOTT-123</li>=0D=0A	<li>Create <a href=3D"http://www.jott.com/goto.aspx?i=3DProgressions@gmail.com&d=3Dlost_jotter_trigger&u=3Dhttp://www.jott.com/myjotts.aspx"=
+ style=3D"color:#f47d02;" target=3D"_blank">lists</a> of things you don't=
+ want to forget like &quot;Books to read&quot; and &quot;Music to buy&quot;</li>=
+=0D=0A=0D=0A	<li>Add Jott Links to <a href=3D"http://www.jott.com/goto.aspx?i=3DProgressions@gmail.com&d=3Dlost_jotter_trigger&u=3Dhttp://jott.com/myjottlinks.aspx?v=3Dall"=
+ style=3D"color:#f47d02;" target=3D"_blank">Twitter</a> or <a href=3D"http://www.jott.com/goto.aspx?i=3DProgressions@gmail.com&d=3Dlost_jotter_trigger&u=3Dhttp://jott.com/jottlinks_premium.aspx"=
+ style=3D"color:#f47d02;" target=3D"_blank">Google Calendar</a> to stay=
+ connected and organized</li>=0D=0A</ol>=0D=0A=0D=0A<p>If you forgot your=
+ password, don't worry, there's a reset link on the login page <a href=3D"http://www.jott.com/goto.aspx?i=3DProgressions@gmail.com&d=3Dlost_jotter_trigger&u=3Dhttp://www.jott.com/forgot.aspx"=
+ style=3D"color:#f47d02;" target=3D"_blank">here</a>.</p>=0D=0A=0D=0A<p>Thanks=
+ again for trying Jott.  We hope you return soon!</p>=0D=0A=0D=0A<p>The=
+ Jott Team</p>=0D=0A=0D=0A<div style=3D"padding-top:30px;margin:30px 0;color:#494949;border-top:1px=
+ solid #ebe3d3">=0D=0ABrought to you by <a href=3D"http://www.jott.com"=
+ style=3D"color:#494949" target=3D"_blank">Jott.com</a> - 1-866-JOTT-123<br/>=
+=0D=0A300 East Pike Street, Suite 200<br/>Seattle, WA 98122<br/>=0D=0A<a=
+ href=3D"http://www.jott.com/goto.aspx?i=3DProgressions@gmail.com&d=3Dlost_jotter_trigger&u=3Dhttp://www.jott.com/settings_plans.aspx"=
+ style=3D"color:#494949" target=3D"_blank">Click here</a> to manage your=
+ account and view any charges.<br />=0D=0A<a href=3D"http://www.jott.com/unsubscribe.aspx?type=3Dmarketing&userid=3Dc3f14f19-0a27-4761-9958-cf31595ebe61"=
+ style=3D"color:#494949" target=3D"_blank">Click here</a> to stop receiving=
+ emails like this.</div>=0D=0A=0D=0A</div>=0D=0A=0D=0A=0D=0A<!-- end email=
+ -->=0D=0A<img src=3D"http://www.jott.com/open.ashx?i=3DProgressions@gmail.com&d=3Dlost_jotter_trigger&r=3Dbb8d673a-290c-45d1-bff8-40aa4a4800e9"=
+ alt=3D"" style=3D"border:0;" />=0D=0A</body>=0D=0A</html>
+
+
+Return-Path: <info@netflix.com>
+Received: by 10.215.39.10 with SMTP id r10cs18170qaj; Tue, 14 Oct 2008 05:19:22 -0500
+Received: from mx11 by mx-ecom.netflix.com; Tue, 14 Oct 2008 05:19:20 -0500
+Date: Tue, 14 Oct 2008 05:19:20 -0500
+From: Netflix <info@netflix.com>
+To: progressions@gmail.com
+Message-Id: <1886285934.157611223979560852.JavaMail.ml@mx11>
+Subject: 'Poppy' DVD not yet received
+Mime-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: Quoted-printable
+X-Smheadermap: mid="X-MailingID"
+Precedence: bulk
+X-Destination-Id: <progressions@gmail.com>
+X-Smfbl: cHJvZ3Jlc3Npb25zQGdtYWlsLmNvbQ==
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of info@netflix.com designates 208.75.76.252 as permitted sender) smtp.mail=info@netflix.com
+X-Mailingid: 00000::00000::00000::00000::1928::<BE-105278418-1928@netflix.com>
+Errors-To: hammer_bounce@netflix.com
+X-Mailer: Netflix Mailer 3.14
+Received-Spf: pass (google.com: domain of info@netflix.com designates 208.75.76.252 as permitted sender) client-ip=208.75.76.252;
+Delivered-To: progressions@gmail.com
+X-Virtualservergroup: ECOM
+
+<html><body topmargin=3D"0" marginheight=3D"0"><table align=3D"center" cell=
+padding=3D"0" cellspacing=3D"0"><tr><td><table cellpadding=3D"0" cellspacin=
+g=3D"0" border=3D"0" width=3D"550" align=3D"center"><tr><td colspan=3D"4"><=
+img src=3D"http://cdn.nflximg.com/us/email/1px_transparent.gif" width=3D"1"=
+ height=3D"15"></td></tr><tr><td colspan=3D"4" align=3D"center"><font face=
+=3D"Arial, Helvetica, sans-serif" size=3D"1">To make sure you get your Netf=
+lix emails, add info@netflix.com to your address book.</font></td></tr><tr>=
+<td bgcolor=3D"#b9090b"><img src=3D"http://cdn.nflximg.com/us/email/1px_tra=
+nsparent.gif" width=3D"15"></td><td align=3D"left" bgcolor=3D"#b9090b" widt=
+h=3D"104"><a href=3D"http://www.netflix.com/Default?nfso=3D61839715&amp;" s=
+tyle=3D""><img src=3D"http://cdn.nflximg.com/us/email/logo/20080118/logo.gi=
+f" hspace=3D"" vspace=3D"" height=3D"49" width=3D"104" border=3D"0"></a><im=
+g src=3D"http://cdn.nflximg.com/us/email/1px_transparent.gif" width=3D"275"=
+ height=3D"1"></td><td bgcolor=3D"#b9090b" align=3D"right" valign=3D"middle=
+"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"212"><tr=
+><td style=3D"font:arial 10pt;color:white" valign=3D"bottom"><a href=3D"htt=
+p://www.netflix.com/YourAccount?nfso=3D67027410&amp;" style=3D"font-family:=
+arial;font-size: 10pt;color:white;">Your Account</a></td><td style=3D"font:=
+arial 10pt;color:white" valign=3D"bottom"><img src=3D"http://cdn.nflximg.co=
+m/us/email/1px_transparent.gif" width=3D"10" height=3D"1">|<img src=3D"http=
+://cdn.nflximg.com/us/email/1px_transparent.gif" width=3D"10" height=3D"1">=
+</td><td style=3D"font:arial 10pt;color:white" valign=3D"bottom"><a href=3D=
+"http://www.netflix.com/Queue?nfso=3D67027411&amp;" style=3D"font-family:ar=
+ial;font-size: 10pt;color:white;">Queue</a></td><td style=3D"font:arial 10p=
+t;color:white" valign=3D"bottom"><img src=3D"http://cdn.nflximg.com/us/emai=
+l/1px_transparent.gif" width=3D"10" height=3D"1">|<img src=3D"http://cdn.nf=
+lximg.com/us/email/1px_transparent.gif" width=3D"10" height=3D"1"></td><td =
+style=3D"font:arial 10pt;color:white" valign=3D"bottom"><a href=3D"http://w=
+ww.netflix.com/Help?nfso=3D67027412&amp;" style=3D"font-family:arial;font-s=
+ize: 10pt;color:white;">Help</a></td><td style=3D"font:arial 10pt;color:whi=
+te" valign=3D"bottom"><img src=3D"http://cdn.nflximg.com/us/email/1px_trans=
+parent.gif" width=3D"10" height=3D"1"></td></tr></table></td><td bgcolor=3D=
+"#b9090b"><img src=3D"http://cdn.nflximg.com/us/email/1px_transparent.gif" =
+width=3D"15"></td></tr><tr><td bgcolor=3D"#b9090b"><img src=3D"http://cdn.n=
+flximg.com/us/email/1px_transparent.gif" width=3D"15"></td><td colspan=3D"2=
+" bgcolor=3D"#FFFFFF"><table cellpadding=3D"0" cellspacing=3D"0"><tr><td co=
+lspan=3D"3"><img src=3D"http://cdn.nflximg.com/us/email/1px_transparent.gif=
+" width=3D"1" height=3D"12"></td></tr><tr><td><img src=3D"http://cdn.nflxim=
+g.com/us/email/1px_transparent.gif" width=3D"12"></td><td><font face=3D"ari=
+al,helvetica,san serif" size=3D"4" color=3D"#000000"><b>Please Return DVDs<=
+/b></font></td><td><img src=3D"http://cdn.nflximg.com/us/email/1px_transpar=
+ent.gif" width=3D"12"></td></tr><tr><td colspan=3D"3"><img src=3D"http://cd=
+n.nflximg.com/us/email/1px_transparent.gif" width=3D"1" height=3D"12"></td>=
+</tr><tr><td><img src=3D"http://cdn.nflximg.com/us/email/1px_transparent.gi=
+f" width=3D"12"></td><td><font face=3D"arial,helvetica" size=3D"2">
+Dear Jeff,<br><br>Thank you for your Netflix membership. We value your busi=
+ness and hope you will consider returning one day.<br><br>
+
+On 06-OCT-2008, you requested that we cancel your Netflix account. At that =
+time, we asked that you return any Netflix DVDs you still had at home. To d=
+ate, we haven't received <b>Poppy</b>. <br><br>
+=20
+If you have not yet returned this movie, please do so as soon as possible. =
+Any outstanding movies not returned by their due date will be billed to you=
+r account at the rate of $20.00 plus any applicable tax for each outstandin=
+g DVD. If you have already sent this DVD to us, please accept our thanks.  =
+We will email you a confirmation as soon as we receive it. <br><br>-The Net=
+flix Team</font><br><br><img src=3D"http://cdn.nflximg.com/us/email/1px_tra=
+nsparent.gif" height=3D"1" width=3D"500"><br><br></td><td><img src=3D"http:=
+//cdn.nflximg.com/us/email/1px_transparent.gif" width=3D"12"></td></tr></ta=
+ble></td><td bgcolor=3D"#b9090b"><img src=3D"http://cdn.nflximg.com/us/emai=
+l/1px_transparent.gif" width=3D"15"></td></tr><tr><td bgcolor=3D"#b9090b" c=
+olspan=3D"4"><img src=3D"http://cdn.nflximg.com/us/email/1px_transparent.gi=
+f" height=3D"15"></td></tr></table></td></tr><tr><td><table border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0"><tr valign=3D"top"><td><font face=3D"Aria=
+l, Helvetica, sans-serif" size=3D"1">SRC:  RETURNREMIND1<br>       =20
+This message was mailed to [progressions@gmail.com]<br>
+Use of the Netflix service and website constitutes acceptance of our <a hre=
+f=3D"http://www.netflix.com/Terms?" style=3D"">Terms of Use</a> and <a href=
+=3D"http://www.netflix.com/PrivacyPolicy?" style=3D"">Privacy Policy</a>.<b=
+r><br>(c)1997-2008 Netflix, Inc. &nbsp;100 Winchester Circle, Los Gatos, CA=
+ 95032</font><br><br><br></td></tr><tr><td><font face=3D"arial,helvetica" s=
+ize=3D"1" color=3D"#E2E2E0">BE-105278418-1928</font></td></tr></table></td>=
+</tr></table><img src=3D"http://www.netflix.com/CountIt?id=3DEMAIL:RETURNRE=
+MIND1&amp;uid=3DBE-105278418-1928&amp;cell=3D1928&amp;edate=3D20081014&amp;=
+other=3Dblort"></body></html>
+
+Return-Path: <info@netflix.com>
+Received: by 10.215.39.10 with SMTP id r10cs18171qaj; Tue, 14 Oct 2008 05:19:22 -0500
+Received: from mx11 by mx-ecom.netflix.com; Tue, 14 Oct 2008 05:19:21 -0500
+Date: Tue, 14 Oct 2008 05:19:21 -0500
+From: Netflix <info@netflix.com>
+To: progressions@gmail.com
+Message-Id: <267128812.157701223979561068.JavaMail.ml@mx11>
+Subject: 'Rod Steele 0014: You Only Live Until You Die' DVD not yet received
+Mime-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: Quoted-printable
+X-Smheadermap: mid="X-MailingID"
+Precedence: bulk
+X-Destination-Id: <progressions@gmail.com>
+X-Smfbl: cHJvZ3Jlc3Npb25zQGdtYWlsLmNvbQ==
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of info@netflix.com designates 208.75.76.252 as permitted sender) smtp.mail=info@netflix.com
+X-Mailingid: 00000::00000::00000::00000::1928::<BE-105278419-1928@netflix.com>
+Errors-To: hammer_bounce@netflix.com
+X-Mailer: Netflix Mailer 3.14
+Received-Spf: pass (google.com: domain of info@netflix.com designates 208.75.76.252 as permitted sender) client-ip=208.75.76.252;
+Delivered-To: progressions@gmail.com
+X-Virtualservergroup: ECOM
+
+<html><body topmargin=3D"0" marginheight=3D"0"><table align=3D"center" cell=
+padding=3D"0" cellspacing=3D"0"><tr><td><table cellpadding=3D"0" cellspacin=
+g=3D"0" border=3D"0" width=3D"550" align=3D"center"><tr><td colspan=3D"4"><=
+img src=3D"http://cdn.nflximg.com/us/email/1px_transparent.gif" width=3D"1"=
+ height=3D"15"></td></tr><tr><td colspan=3D"4" align=3D"center"><font face=
+=3D"Arial, Helvetica, sans-serif" size=3D"1">To make sure you get your Netf=
+lix emails, add info@netflix.com to your address book.</font></td></tr><tr>=
+<td bgcolor=3D"#b9090b"><img src=3D"http://cdn.nflximg.com/us/email/1px_tra=
+nsparent.gif" width=3D"15"></td><td align=3D"left" bgcolor=3D"#b9090b" widt=
+h=3D"104"><a href=3D"http://www.netflix.com/Default?nfso=3D61839715&amp;" s=
+tyle=3D""><img src=3D"http://cdn.nflximg.com/us/email/logo/20080118/logo.gi=
+f" hspace=3D"" vspace=3D"" height=3D"49" width=3D"104" border=3D"0"></a><im=
+g src=3D"http://cdn.nflximg.com/us/email/1px_transparent.gif" width=3D"275"=
+ height=3D"1"></td><td bgcolor=3D"#b9090b" align=3D"right" valign=3D"middle=
+"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"212"><tr=
+><td style=3D"font:arial 10pt;color:white" valign=3D"bottom"><a href=3D"htt=
+p://www.netflix.com/YourAccount?nfso=3D67027410&amp;" style=3D"font-family:=
+arial;font-size: 10pt;color:white;">Your Account</a></td><td style=3D"font:=
+arial 10pt;color:white" valign=3D"bottom"><img src=3D"http://cdn.nflximg.co=
+m/us/email/1px_transparent.gif" width=3D"10" height=3D"1">|<img src=3D"http=
+://cdn.nflximg.com/us/email/1px_transparent.gif" width=3D"10" height=3D"1">=
+</td><td style=3D"font:arial 10pt;color:white" valign=3D"bottom"><a href=3D=
+"http://www.netflix.com/Queue?nfso=3D67027411&amp;" style=3D"font-family:ar=
+ial;font-size: 10pt;color:white;">Queue</a></td><td style=3D"font:arial 10p=
+t;color:white" valign=3D"bottom"><img src=3D"http://cdn.nflximg.com/us/emai=
+l/1px_transparent.gif" width=3D"10" height=3D"1">|<img src=3D"http://cdn.nf=
+lximg.com/us/email/1px_transparent.gif" width=3D"10" height=3D"1"></td><td =
+style=3D"font:arial 10pt;color:white" valign=3D"bottom"><a href=3D"http://w=
+ww.netflix.com/Help?nfso=3D67027412&amp;" style=3D"font-family:arial;font-s=
+ize: 10pt;color:white;">Help</a></td><td style=3D"font:arial 10pt;color:whi=
+te" valign=3D"bottom"><img src=3D"http://cdn.nflximg.com/us/email/1px_trans=
+parent.gif" width=3D"10" height=3D"1"></td></tr></table></td><td bgcolor=3D=
+"#b9090b"><img src=3D"http://cdn.nflximg.com/us/email/1px_transparent.gif" =
+width=3D"15"></td></tr><tr><td bgcolor=3D"#b9090b"><img src=3D"http://cdn.n=
+flximg.com/us/email/1px_transparent.gif" width=3D"15"></td><td colspan=3D"2=
+" bgcolor=3D"#FFFFFF"><table cellpadding=3D"0" cellspacing=3D"0"><tr><td co=
+lspan=3D"3"><img src=3D"http://cdn.nflximg.com/us/email/1px_transparent.gif=
+" width=3D"1" height=3D"12"></td></tr><tr><td><img src=3D"http://cdn.nflxim=
+g.com/us/email/1px_transparent.gif" width=3D"12"></td><td><font face=3D"ari=
+al,helvetica,san serif" size=3D"4" color=3D"#000000"><b>Please Return DVDs<=
+/b></font></td><td><img src=3D"http://cdn.nflximg.com/us/email/1px_transpar=
+ent.gif" width=3D"12"></td></tr><tr><td colspan=3D"3"><img src=3D"http://cd=
+n.nflximg.com/us/email/1px_transparent.gif" width=3D"1" height=3D"12"></td>=
+</tr><tr><td><img src=3D"http://cdn.nflximg.com/us/email/1px_transparent.gi=
+f" width=3D"12"></td><td><font face=3D"arial,helvetica" size=3D"2">
+Dear Jeff,<br><br>Thank you for your Netflix membership. We value your busi=
+ness and hope you will consider returning one day.<br><br>
+
+On 06-OCT-2008, you requested that we cancel your Netflix account. At that =
+time, we asked that you return any Netflix DVDs you still had at home. To d=
+ate, we haven't received <b>Rod Steele 0014: You Only Live Until You Die</b=
+>. <br><br>
+=20
+If you have not yet returned this movie, please do so as soon as possible. =
+Any outstanding movies not returned by their due date will be billed to you=
+r account at the rate of $20.00 plus any applicable tax for each outstandin=
+g DVD. If you have already sent this DVD to us, please accept our thanks.  =
+We will email you a confirmation as soon as we receive it. <br><br>-The Net=
+flix Team</font><br><br><img src=3D"http://cdn.nflximg.com/us/email/1px_tra=
+nsparent.gif" height=3D"1" width=3D"500"><br><br></td><td><img src=3D"http:=
+//cdn.nflximg.com/us/email/1px_transparent.gif" width=3D"12"></td></tr></ta=
+ble></td><td bgcolor=3D"#b9090b"><img src=3D"http://cdn.nflximg.com/us/emai=
+l/1px_transparent.gif" width=3D"15"></td></tr><tr><td bgcolor=3D"#b9090b" c=
+olspan=3D"4"><img src=3D"http://cdn.nflximg.com/us/email/1px_transparent.gi=
+f" height=3D"15"></td></tr></table></td></tr><tr><td><table border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0"><tr valign=3D"top"><td><font face=3D"Aria=
+l, Helvetica, sans-serif" size=3D"1">SRC:  RETURNREMIND1<br>       =20
+This message was mailed to [progressions@gmail.com]<br>
+Use of the Netflix service and website constitutes acceptance of our <a hre=
+f=3D"http://www.netflix.com/Terms?" style=3D"">Terms of Use</a> and <a href=
+=3D"http://www.netflix.com/PrivacyPolicy?" style=3D"">Privacy Policy</a>.<b=
+r><br>(c)1997-2008 Netflix, Inc. &nbsp;100 Winchester Circle, Los Gatos, CA=
+ 95032</font><br><br><br></td></tr><tr><td><font face=3D"arial,helvetica" s=
+ize=3D"1" color=3D"#E2E2E0">BE-105278419-1928</font></td></tr></table></td>=
+</tr></table><img src=3D"http://www.netflix.com/CountIt?id=3DEMAIL:RETURNRE=
+MIND1&amp;uid=3DBE-105278419-1928&amp;cell=3D1928&amp;edate=3D20081014&amp;=
+other=3Dblort"></body></html>
+
+Return-Path: <progressions.otherinbox.com@otherinbox.com>
+Received: by 10.215.39.10 with SMTP id r10cs20885qaj; Tue, 14 Oct 2008 06:41:12 -0500
+Received: from box7.911domain.com by dn117.thinkface.com with ESMTP id m9EApuqw024881 for <progressions@gmail.com>; Tue, 14 Oct 2008 05:51:56 -0500
+Received: from relay.dnsexit.com by box7.911domain.com with ESMTP id m9EBgRSG016177 for <progressions@gmail.com>; Tue, 14 Oct 2008 06:42:28 -0500
+Date: Tue, 14 Oct 2008 06:41:09 -0500
+From: OtherInbox <progressions.otherinbox.com@otherinbox.com>
+To: progressions@gmail.com
+Message-Id: <48f48555b15a_41315a71f05a02421756e3@data.otherinbox.com.tmail>
+Subject: Inbox for Jeff Coleman (0)
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary=mimepart_48f4e6316e988_d30241369a2e5
+X-Complaints-To: abuse@dnsExit.com
+Authentication-Results: mx.google.com; spf=neutral (google.com: 69.57.160.117 is neither permitted nor denied by domain of progressions.otherinbox.com@otherinbox.com) smtp.mail=progressions.otherinbox.com@otherinbox.com
+Received-Spf: neutral (google.com: 69.57.160.117 is neither permitted nor denied by domain of progressions.otherinbox.com@otherinbox.com) client-ip=69.57.160.117;
+X-Spam: Please report Spam to abuse@dnsExit.com By service at http://www.dnsExit.com/Direct.sv?cmd=mailRelay Accounts will be suspended immediately if convicted Spam
+Delivered-To: progressions@gmail.com
+
+
+
+--mimepart_48f4e6316e988_d30241369a2e5
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: Quoted-printable
+Content-Disposition: inline
+
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xml:lang=3D"en" lang=3D"en">=
+
+<head>
+  <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+"/>
+  <title>OtherInbox Daily Report</title>
+</head>
+<body>
+<div id=3D"otherinbox_summary" style=3D"font-family: Helvetica, Arial, Ve=
+rdana, sans-serif; font-size: 12px; margin: 0;">
+  <table cellpadding=3D"0" cellspacing=3D"0" style=3D"background-color: #=
+fff; margin: 0; text-align: left; width: 100%;">
+    <tr>
+      <td style=3D"vertical-align: bottom; width: 165px;">
+        <a href=3D'http://beta.otherinbox.com/box/' style=3D"border: none=
+; margin-right: 18px"><img src=3D'http://beta.otherinbox.com/images/sc_st=
+atic/otherinbox_email_logo.gif' alt=3D"OtherInbox" /></a>
+      </td>
+      <td style=3D"vertical-align: bottom;">
+        <p style=3D"color: #000; font-size: 14px; font-weight: bold; line=
+-height: 18px; margin: 0;"> <a href=3D"http://beta.otherinbox.com/box/" s=
+tyle=3D"color: #000; text-decoration: none;">progressions.otherinbox.com<=
+/a> Daily Report &mdash; October 14, 2008</p>
+		<p style=3D"color: #000; line-height: 18px; margin: 0">
+        		=
+
+  			 No new unread messages have arrived in your OtherInbox during the p=
+ast 24 hours.</p>
+  						There is 1 total unread message in your OtherInbox.
+		</p>
+      </td>
+    </tr>
+  </table>
+  =
+
+  =
+
+  <p style=3D"border-top: 1px solid #ccc; color: #666; margin: 9px 0 0 0;=
+ line-height: 18px; padding-top: 8px;">You are receiving this email becau=
+se you signed up for the OtherInbox.com shopping email service at <a href=
+=3D"http://beta.otherinbox.com/box/" style=3D"color: #666;">http://beta.o=
+therinbox.com/box/</a> with username &ldquo;<strong>progressions</strong>=
+&rdquo;. To stop this email or change your settings, visit <a href=3D"htt=
+p://beta.otherinbox.com/box/" style=3D"color: #666;">http://beta.otherinb=
+ox.com/box/</a></p>
+</div>
+</body>
+</html>
+
+
+--mimepart_48f4e6316e988_d30241369a2e5--
+Return-Path: <bounces@fieldsolutions.us>
+Received: by 10.215.39.10 with SMTP id r10cs25465qaj; Tue, 14 Oct 2008 08:10:30 -0500
+Date: Tue, 14 Oct 2008 08:10:28 -0500
+From: Kimsor Heng <kheng@bailiwick.com>
+To: progressions@gmail.com
+Message-Id: <20081014131028.71256824591@mail1.fieldsolutions.com>
+Subject: Work Available in Your Area
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary=mimepart_48f4e6319c400_d30241369a328
+Authentication-Results: mx.google.com; spf=permerror (google.com: domain of bounces@fieldsolutions.us uses a mechanism not recognized by this client. unknown  mechanisms: )) smtp.mail=bounces@fieldsolutions.us
+Received-Spf: unknown (google.com: domain of bounces@fieldsolutions.us uses a mechanism not recognized by this client. unknown  mechanisms: )) client-ip=72.3.142.80;
+Delivered-To: progressions@gmail.com
+
+
+--mimepart_48f4e6319c400_d30241369a328
+Content-Type: text/plain; charset="ISO-8859-1"
+Content-Transfer-Encoding: 7bit
+
+-----
+		Description: 
+							
+		Equipment Installation Services Overview
+Installation teams will consist of one technician who will complete installation activities during a single visit to each new store.  
+
+Technicians will complete the installations on the date and time specified.  
+
+Technician will perform the following installation activities:
+•	(1) PC and related peripherals
+•	(1) Server and related peripherals
+•	(1) Laser Printer
+•	(1) Ethernet Switch
+•	(1) Analog Modem
+
+?	Technician will install the following at the front counter under the server:
+o	(1) Ethernet Switch. Complete network connection to the router. (installed by others, may not be present)
+o	(1) Server and related peripherals. Install the keyboard, monitor, and mouse.  Complete power and network connection. (patch cord into the switch)
+o	(1) Analog Modem. Complete cable connections to the designated circuit and server.
+o	(1) PC and related peripherals. Install the keyboard, monitor, and mouse.  Complete power and network connection. (patch cord into the switch)
+o	(1) Peripheral Kit.  The peripherals will be installed onto workstation #1 at each Center.  Technician will install one USB Hub and connect the Hub to the workstation.  See attached instructions for specific details.  Peripherals will not be present at all locations.
+?	Kit may include all of some of the following:
+•	(1) USB Hub
+•	(1) Receipt Printer
+•	(1) Fingerprint Scanner
+•	(1) Excella Check Reader
+•	(1) Driver License Scanner
+o	(1) Laser printer. Complete power and network connection. (patch cord into the switch)
+?	Technician will complete acceptance testing procedures and documentation.  Documentation to include 3-4 pictures of the front counter area.
+		
+		Special Instructions:
+		
+		Equipment wil be delivered to the site.
+							
+		Location: Talladaga, AL, 35160
+		Date: 09/17/2008
+		Start Time: 9:00 AM 
+		End Time: 
+		Est On Site Arrival Time: 
+		Duration: 2.5hrs
+		Required: Ability to lift 75lbs, Cell Phone
+		Tools: PC Tool Kit
+		Pay: 80.00 PER Site 
+		
+
+Have you visited the new Tech Community website? Click <a href='http://www.mytechnicianspace.com/'>here</a> for fun and information on the tech community
+
+You are receiving this email as a registered technician on www.fieldsolutions.com.
+Click <a href='https://bridge.caspio.net/dp.asp?AppKey=E7A2F4C2E0E7A2F4C2E0'>here</a> to stop receiving future e-mails from us.
+
+--mimepart_48f4e6319c400_d30241369a328
+Content-Type: text/html; charset="ISO-8859-1"
+Content-Transfer-Encoding: Quoted-printable
+
+-----<br />
+		Description: <br />
+							<br />
+		Equipment Installation Services Overview<br />
+Installation teams will consist of one technician who will complete install=
+ation activities during a single visit to each new store.  <br />
+<br />
+Technicians will complete the installations on the date and time specified.=
+  <br />
+<br />
+Technician will perform the following installation activities:<br />
+=E2=80=A2	(1) PC and related peripherals<br />
+=E2=80=A2	(1) Server and related peripherals<br />
+=E2=80=A2	(1) Laser Printer<br />
+=E2=80=A2	(1) Ethernet Switch<br />
+=E2=80=A2	(1) Analog Modem<br />
+<br />
+?	Technician will install the following at the front counter under the serv=
+er:<br />
+o	(1) Ethernet Switch. Complete network connection to the router. (installe=
+d by others, may not be present)<br />
+o	(1) Server and related peripherals. Install the keyboard, monitor, and mo=
+use.  Complete power and network connection. (patch cord into the switch)<b=
+r />
+o	(1) Analog Modem. Complete cable connections to the designated circuit an=
+d server.<br />
+o	(1) PC and related peripherals. Install the keyboard, monitor, and mouse.=
+  Complete power and network connection. (patch cord into the switch)<br />
+o	(1) Peripheral Kit.  The peripherals will be installed onto workstation #=
+1 at each Center.  Technician will install one USB Hub and connect the Hub =
+to the workstation.  See attached instructions for specific details.  Perip=
+herals will not be present at all locations.<br />
+?	Kit may include all of some of the following:<br />
+=E2=80=A2	(1) USB Hub<br />
+=E2=80=A2	(1) Receipt Printer<br />
+=E2=80=A2	(1) Fingerprint Scanner<br />
+=E2=80=A2	(1) Excella Check Reader<br />
+=E2=80=A2	(1) Driver License Scanner<br />
+o	(1) Laser printer. Complete power and network connection. (patch cord int=
+o the switch)<br />
+?	Technician will complete acceptance testing procedures and documentation.=
+  Documentation to include 3-4 pictures of the front counter area.<br />
+		<br />
+		Special Instructions:<br />
+		<br />
+		Equipment wil be delivered to the site.<br />
+							<br />
+		Location: Talladaga, AL, 35160<br />
+		Date: 09/17/2008<br />
+		Start Time: 9:00 AM <br />
+		End Time: <br />
+		Est On Site Arrival Time: <br />
+		Duration: 2.5hrs<br />
+		Required: Ability to lift 75lbs, Cell Phone<br />
+		Tools: PC Tool Kit<br />
+		Pay: 80.00 PER Site <br />
+		<br />
+<br />
+Have you visited the new Tech Community website? Click <a href=3D'http://ww=
+w.mytechnicianspace.com/'>here</a> for fun and information on the tech comm=
+unity<br />
+<br />
+You are receiving this email as a registered technician on www.fieldsolutio=
+ns.com.<br />
+Click <a href=3D'https://bridge.caspio.net/dp.asp?AppKey=3DE7A2F4C2E0E7A2F4=
+C2E0'>here</a> to stop receiving future e-mails from us.
+
+--mimepart_48f4e6319c400_d30241369a328--
+
+Return-Path: <bounces@fieldsolutions.us>
+Received: by 10.215.39.10 with SMTP id r10cs25517qaj; Tue, 14 Oct 2008 08:11:21 -0500
+Received: from localhost by mail1.fieldsolutions.com with ESMTP id 214AF824593 for <progressions@gmail.com>; Tue, 14 Oct 2008 08:11:20 -0500
+Date: Tue, 14 Oct 2008 08:11:20 -0500
+From: Kimsor Heng <kheng@bailiwick.com>
+To: progressions@gmail.com
+Message-Id: <20081014131120.214AF824593@mail1.fieldsolutions.com>
+Subject: Work Available in Your Area
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary=mimepart_48f4e631d1b78_d30241369a460
+Authentication-Results: mx.google.com; spf=permerror (google.com: domain of bounces@fieldsolutions.us uses a mechanism not recognized by this client. unknown  mechanisms: )) smtp.mail=bounces@fieldsolutions.us
+Received-Spf: unknown (google.com: domain of bounces@fieldsolutions.us uses a mechanism not recognized by this client. unknown  mechanisms: )) client-ip=72.3.142.80;
+Delivered-To: progressions@gmail.com
+
+
+--mimepart_48f4e631d1b78_d30241369a460
+Content-Type: text/plain; charset="ISO-8859-1"
+Content-Transfer-Encoding: 7bit
+
+-----
+		Description: 
+							
+		Equipment Installation Services Overview
+Installation teams will consist of one technician who will complete installation activities during a single visit to each new store.  
+
+Technicians will complete the installations on the date and time specified.  
+
+Technician will perform the following installation activities:
+•	(1) PC and related peripherals
+•	(1) Server and related peripherals
+•	(1) Laser Printer
+•	(1) Ethernet Switch
+•	(1) Analog Modem
+
+?	Technician will install the following at the front counter under the server:
+o	(1) Ethernet Switch. Complete network connection to the router. (installed by others, may not be present)
+o	(1) Server and related peripherals. Install the keyboard, monitor, and mouse.  Complete power and network connection. (patch cord into the switch)
+o	(1) Analog Modem. Complete cable connections to the designated circuit and server.
+o	(1) PC and related peripherals. Install the keyboard, monitor, and mouse.  Complete power and network connection. (patch cord into the switch)
+o	(1) Peripheral Kit.  The peripherals will be installed onto workstation #1 at each Center.  Technician will install one USB Hub and connect the Hub to the workstation.  See attached instructions for specific details.  Peripherals will not be present at all locations.
+?	Kit may include all of some of the following:
+•	(1) USB Hub
+•	(1) Receipt Printer
+•	(1) Fingerprint Scanner
+•	(1) Excella Check Reader
+•	(1) Driver License Scanner
+o	(1) Laser printer. Complete power and network connection. (patch cord into the switch)
+?	Technician will complete acceptance testing procedures and documentation.  Documentation to include 3-4 pictures of the front counter area.
+		
+		Special Instructions:
+		
+		Equipment wil be delivered to the site.
+							
+		Location: Springfield, IL, 62704
+		Date: 10/15/2008
+		Start Time: 9:00 AM 
+		End Time: 
+		Est On Site Arrival Time: 
+		Duration: 3hrs
+		Required: Ability to lift 75lbs, Cell Phone
+		Tools: PC Tool Kit
+		Pay: 80.00 PER Site 
+		
+
+Have you visited the new Tech Community website? Click <a href='http://www.mytechnicianspace.com/'>here</a> for fun and information on the tech community
+
+You are receiving this email as a registered technician on www.fieldsolutions.com.
+Click <a href='https://bridge.caspio.net/dp.asp?AppKey=E7A2F4C2E0E7A2F4C2E0'>here</a> to stop receiving future e-mails from us.
+
+--mimepart_48f4e631d1b78_d30241369a460
+Content-Type: text/html; charset="ISO-8859-1"
+Content-Transfer-Encoding: Quoted-printable
+
+-----<br />
+		Description: <br />
+							<br />
+		Equipment Installation Services Overview<br />
+Installation teams will consist of one technician who will complete install=
+ation activities during a single visit to each new store.  <br />
+<br />
+Technicians will complete the installations on the date and time specified.=
+  <br />
+<br />
+Technician will perform the following installation activities:<br />
+=E2=80=A2	(1) PC and related peripherals<br />
+=E2=80=A2	(1) Server and related peripherals<br />
+=E2=80=A2	(1) Laser Printer<br />
+=E2=80=A2	(1) Ethernet Switch<br />
+=E2=80=A2	(1) Analog Modem<br />
+<br />
+?	Technician will install the following at the front counter under the serv=
+er:<br />
+o	(1) Ethernet Switch. Complete network connection to the router. (installe=
+d by others, may not be present)<br />
+o	(1) Server and related peripherals. Install the keyboard, monitor, and mo=
+use.  Complete power and network connection. (patch cord into the switch)<b=
+r />
+o	(1) Analog Modem. Complete cable connections to the designated circuit an=
+d server.<br />
+o	(1) PC and related peripherals. Install the keyboard, monitor, and mouse.=
+  Complete power and network connection. (patch cord into the switch)<br />
+o	(1) Peripheral Kit.  The peripherals will be installed onto workstation #=
+1 at each Center.  Technician will install one USB Hub and connect the Hub =
+to the workstation.  See attached instructions for specific details.  Perip=
+herals will not be present at all locations.<br />
+?	Kit may include all of some of the following:<br />
+=E2=80=A2	(1) USB Hub<br />
+=E2=80=A2	(1) Receipt Printer<br />
+=E2=80=A2	(1) Fingerprint Scanner<br />
+=E2=80=A2	(1) Excella Check Reader<br />
+=E2=80=A2	(1) Driver License Scanner<br />
+o	(1) Laser printer. Complete power and network connection. (patch cord int=
+o the switch)<br />
+?	Technician will complete acceptance testing procedures and documentation.=
+  Documentation to include 3-4 pictures of the front counter area.<br />
+		<br />
+		Special Instructions:<br />
+		<br />
+		Equipment wil be delivered to the site.<br />
+							<br />
+		Location: Springfield, IL, 62704<br />
+		Date: 10/15/2008<br />
+		Start Time: 9:00 AM <br />
+		End Time: <br />
+		Est On Site Arrival Time: <br />
+		Duration: 3hrs<br />
+		Required: Ability to lift 75lbs, Cell Phone<br />
+		Tools: PC Tool Kit<br />
+		Pay: 80.00 PER Site <br />
+		<br />
+<br />
+Have you visited the new Tech Community website? Click <a href=3D'http://ww=
+w.mytechnicianspace.com/'>here</a> for fun and information on the tech comm=
+unity<br />
+<br />
+You are receiving this email as a registered technician on www.fieldsolutio=
+ns.com.<br />
+Click <a href=3D'https://bridge.caspio.net/dp.asp?AppKey=3DE7A2F4C2E0E7A2F4=
+C2E0'>here</a> to stop receiving future e-mails from us.
+
+--mimepart_48f4e631d1b78_d30241369a460--
+
+Return-Path: <bounce-flag-progressions=gmail.com@craigslist.org>
+Received: by 10.215.39.10 with SMTP id r10cs25816qaj; Tue, 14 Oct 2008 08:16:52 -0500
+Date: Tue, 14 Oct 2008 08:16:50 -0500
+From: caroltex@aol.com
+To: progressions@gmail.com
+Message-Id: <20081014131650.E2B6FF1287@web4p.int.craigslist.org>
+Subject: I need a Real Estate type website developed - Local Austin Only  (Local Austin Only Respond)
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary=mimepart_48f4e6327918_d30241369a593
+Content-Transfer-Encoding: Binary
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of bounce-flag-progressions=gmail.com@craigslist.org designates 208.82.239.167 as permitted sender) smtp.mail=bounce-flag-progressions=gmail.com@craigslist.org
+X-Mailer: MIME::Lite 3.01 (F2.74; A1.74; B3.07; Q3.07)
+Received-Spf: pass (google.com: domain of bounce-flag-progressions=gmail.com@craigslist.org designates 208.82.239.167 as permitted sender) client-ip=208.82.239.167;
+Delivered-To: progressions@gmail.com
+
+This is a multi-part message in MIME format.
+
+
+--mimepart_48f4e6327918_d30241369a593
+Content-Type: text/plain
+Content-Transfer-Encoding: Quoted-printable
+Content-Disposition: inline
+
+
+
+
+caroltex@aol.com has forwarded you this craigslist.org posting.
+Please see below for more information.=20
+
+I need a Real Estate type website developed - Local Austin Only=20
+
+Reply to: anon-878128649@craigslist.org
+Date: 2008-10-13,  7:15PM
+
+
+	I'm new to Real Estate and have already had to shell out several thousand =
+dollars getting licensed and joining all the needed associations and really=
+ need someone local that can do reasonable work on a Website.=0D
+=0D
+I'll need to be taught a little along the way as well.=0D
+=0D
+No need responding if you are NOT local to Austin.=0D
+=0D
+
+
+
+
+ Location: Local Austin Only Respond
+it's NOT ok to contact this poster with services or other commercial intere=
+sts
+ Compensation: willing to consider a reasonable arrangement=20
+
+
+
+
+	Original URL:http://austin.craigslist.org/cpg/878128649.html
+
+
+
+	this craigslist posting was forwarded to you by someone using our
+email-a-friend feature - if you want to prevent these, please go to:
+
+	http://www.craigslist.org/cgi-bin/te/vJHclJ3ZpN3cz52btdGQslWYvNmLAAQbW
+
+
+
+
+
+
+
+
+--mimepart_48f4e6327918_d30241369a593
+Content-Type: text/html
+Content-Transfer-Encoding: Quoted-printable
+Content-Disposition: inline
+
+<html>
+<body>
+
+caroltex@aol.com has forwarded you this craigslist.org posting.<br>
+Please see below for more information. <br>
+<hr>
+<h2>I need a Real Estate type website developed - Local Austin Only </h2>
+
+Reply to: <a href=3D"mailto:anon-878128649@craigslist.org">anon-878128649@c=
+raigslist.org</a><br>
+Date: 2008-10-13,  7:15PM<br>
+
+<p>
+	I'm new to Real Estate and have already had to shell out several thousand =
+dollars getting licensed and joining all the needed associations and really=
+ need someone local that can do reasonable work on a Website.=0D<br>
+=0D=
+I'll need to be taught a little along the way as well.=0D<br>
+=0D=
+No need responding if you are NOT local to Austin.=0D<br>
+=0D=
+<!-- START CLTAGS -->
+
+
+<br><br><ul class=3D"blurbs">
+<li> <!-- CLTAG GeographicArea=3DLocal Austin Only Respond -->Location: Loc=
+al Austin Only Respond
+<li>it's NOT ok to contact this poster with services or other commercial in=
+terests
+<li> <!-- CLTAG compensation=3Dwilling to consider a reasonable arrangement=
+ -->Compensation: willing to consider a reasonable arrangement <!-- CLTAG p=
+aynopay=3Dforpay --></ul>
+<!-- END CLTAGS -->
+</p>
+
+<p>
+	Original URL:<a href=3D"http://austin.craigslist.org/cpg/878128649.html">h=
+ttp://austin.craigslist.org/cpg/878128649.html</a>
+
+<hr>
+<p>
+	<i>this craigslist posting was forwarded to you by someone using our<br>
+email-a-friend feature - if you want to prevent these, please go to:<br>
+
+	<a href=3D"http://www.craigslist.org/cgi-bin/te/vJHclJ3ZpN3cz52btdGQslWYvN=
+mLAAQbW">http://www.craigslist.org/cgi-bin/te/vJHclJ3ZpN3cz52btdGQslWYvNmLA=
+AQbW</a>
+</i></p>
+
+<hr>
+
+</body></html>
+
+
+
+--mimepart_48f4e6327918_d30241369a593--
+
+Return-Path: <apache@stylelife.com>
+Received: by 10.215.39.10 with SMTP id r10cs27955qaj; Tue, 14 Oct 2008 08:52:32 -0500
+Received: from stylelife.com by stylelife.com with ESMTP id F14BB1C329D8 for <progressions@gmail.com>; Tue, 14 Oct 2008 08:52:31 -0500
+Received: by stylelife.com id m9EDqVv8016423; Tue, 14 Oct 2008 08:52:31 -0500
+Date: Tue, 14 Oct 2008 08:52:31 -0500
+From: Stylelife <academy@stylelife.com>
+Reply-To: Stylelife <academy@stylelife.com>
+To: progressions@gmail.com
+Message-Id: <511778d1324934f838eb1114f98aafd8@www.stylelife.com>
+Subject: Exclusive: Amazing VH1 "The Pick-up Artist" Party (with pics)
+Mime-Version: 1.0
+Content-Type: text/plain; charset=""
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+Authentication-Results: mx.google.com; spf=pass (google.com: best guess record for domain of apache@stylelife.com designates 208.112.0.60 as permitted sender) smtp.mail=apache@stylelife.com
+X-Mailer: PHPMailer [version 1.72]
+Received-Spf: pass (google.com: best guess record for domain of apache@stylelife.com designates 208.112.0.60 as permitted sender) client-ip=208.112.0.60;
+Delivered-To: progressions@gmail.com
+
+Hey Jeff Coleman,
+
+Last night Style threw a party at his house packed 
+with an astonishing group...Mystery, Matador, all 
+the Stylelife coaches, and other awesome people...it 
+was a blast. Getting to watch the season 2 premiere 
+episode of "The Pick-up Artist" with these guys was 
+surreal. As you'll see...
+
+I noticed Bravo taking a bunch of pictures at the 
+party and asked him if he was putting them on the 
+forum. He told me they were for Style's Pick-up 
+labs. That project has been kept under the radar, 
+but I can tell you this, Stylelife has been putting 
+together a laboratory where you can experiment, 
+examine, share and discuss old and new pick-up 
+material for free. 
+
+It's called Pickuplabs.com (http://pickuplabs.com). 
+It's Stylelife's dedicated resource for developing 
+and testing everything from canned DHVs to direct 
+game. There will even be a special section for 
+Stylelife students with powerful material developed 
+by an undercover team. 
+
+So how does this all relate to "The Pick-up Artist" 
+show?
+
+In the next couple of days you'll find detailed 
+instructions, breakdowns and tests of the routines 
+presented on the new season of "The Pick-up Artist." 
+So, you can go out, test the routines, come back, 
+and share your experiences.
+
+You'll find out if you're ready to be on the show!
+
+Bravo enlisted Joe D. (from Season 1) and some other 
+Pick-up experts to get surprising insights about the 
+show and the routines used in each episode. 
+
+In the next weeks, features will be added so that 
+you can upload your own routines and vote on other 
+members' routines.
+
+See you in the lab,
+The Sneak
+
+P.S :  Hit up www.pickuplabs.com right now and check 
+out some of the pictures snapped at last night's 
+party.
+
+--
+
+Stylelife Academy
+8491 Sunset Blvd. #348
+West Hollywood, CA 90069, USA
+
+--
+
+To unsubscribe or change subscriber options visit:
+http://www.stylelife.com/mailmgr/unsubscribe.php
+
+Return-Path: <v-bcnodj_bmjmkndlp_hoklale_hoklale_a@bounce.mkt637.com>
+Received: by 10.215.39.10 with SMTP id r10cs31716qaj; Tue, 14 Oct 2008 09:47:22 -0500
+Received: by mail6090.mkt637.com id huiofg0iiksi for <progressions@gmail.com>; Tue, 14 Oct 2008 09:38:29 -0500
+Date: Tue, 14 Oct 2008 09:38:29 -0500
+From: Vanity Fair <vanityfair@email.vanityfairmagazine.com>
+Reply-To: vanityfair@email.vanityfairmagazine.com
+To: progressions@gmail.com
+Message-Id: <5839826.82548441223995109632.JavaMail.app@rbg14.atlis1>
+Subject: Vanity Fair: Campaign New York
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary=mimepart_48f4e6326e988_d30241369a6d7
+Dkim-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=spop; d=email.vanityfairmagazine.com; h=Message-ID:Date:From:Reply-To:To:Subject:MIME-Version:Content-Type:List-Unsubscribe; i=vanityfair@email.vanityfairmagazine.com; bh=GqRxuV/0Ekm2K3e0XwbTzrDK3Pg=; b=gK5X8KC3DaE8Y8kbB3Da8RTPTvieu1OgOBH1Lu4QEDBmWYK3G0HcbWh9jKZ883pu2FyePwfcP3JB vYI8vLtDyw==
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of v-bcnodj_bmjmkndlp_hoklale_hoklale_a@bounce.mkt637.com designates 208.85.50.66 as permitted sender) smtp.mail=v-bcnodj_bmjmkndlp_hoklale_hoklale_a@bounce.mkt637.com; dkim=neutral (no key) header.i=vanityfair@email.vanityfairmagazine.com
+List-Unsubscribe: <mailto:v-bcnodj_bmjmkndlp_hoklale_hoklale_a@bounce.mkt637.com?subject=Unsubscribe>
+Domainkey-Signature: a=rsa-sha1; c=nofws; q=dns; s=spop; d=email.vanityfairmagazine.com; b=mjFqT2EefA56krJImu2l7kot4K3NEOlErfUb3DLMDCsh2yKo2vmmiftg0LILkqYVpoyB9U2GNF6b mLlS0K7Ixg==;
+Received-Spf: pass (google.com: domain of v-bcnodj_bmjmkndlp_hoklale_hoklale_a@bounce.mkt637.com designates 208.85.50.66 as permitted sender) client-ip=208.85.50.66;
+X-Mid: 1236537
+X-Job: 1236537
+Delivered-To: progressions@gmail.com
+
+
+--mimepart_48f4e6326e988_d30241369a6d7
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+To view this mail in a browser, copy http://links.mkt637.com/servlet/MailView?ms=MTIzNjUzNwS2&r=NzY4MDQ4MDE5MQS2&j=MTMyODIxMTcyS0&mt=1&rt=0 into your browser.
+To ensure you receive your Vanity Fair 
+"emails, please add "
+vanity_fair@email.vanityfairmagazine.com
+to your address book.
+
+==============================================
+
+VANITY FAIR
+CAMPAIGN NEW YORK
+"- A CELEBRATION of CULTURE, ART, and STYLE -"
+
+"Exclusively for American Express(R) Cardmembers,"
+Lambertson Truex presents the Collector?s 
+Edition ?Index of Happiness? and the 
+Limited-edition ?Gertrude? totes
+
+"In partnership with Campaign New York, Lambertson "
+Truex has created these totes with the modern 
+sophistication and superior craftsmanship the 
+brand is known for?and in limited quantities only.
+
+When you use your American Express Card to purchase
+"one of the totes, 15 percent of the purchase price "
+from both bags will be donated to the Whitney Museum 
+"of American Art?s Photography Program, Collection, "
+and Special Exhibitions.*
+
+CLICK HERE TO VIEW HIGHLIGHTS
+HOTLINK: 
+http://links.mkt637.com/ctt?kn=3&m=1236537&r=NzY4MDQ4MDE5MQS2&b=2&j=MTMyODIxMTcyS0&mt=1&rt=0 
+
+GET DETAILS
+HOTLINK: 
+http://links.mkt637.com/ctt?kn=2&m=1236537&r=NzY4MDQ4MDE5MQS2&b=2&j=MTMyODIxMTcyS0&mt=1&rt=0
+
+"If you don't have an American Express Card, call "
+1.800.THE.CARD to apply or visit 800thecard.com to 
+learn more. The featured Lambertson Truex bags must 
+be purchased using an American Express Card. Donation 
+is not tax deductible for Cardmembers. All offers 
+are subject to availability by the vendor. This offer
+"begins September 2, 2008, at 12:01 AM ET and ends "
+"October 31, 2008, at 11:59 PM ET. Vanity Fair is not "
+involved in the manufacture of any products and 
+disclaims all liability in connection therewith. 
+"*Except as to sales in AL, IL, MA, ME, and SC."
+
+==============================================
+
+Privacy Administrator
+privacy_administration@advancemags.com
+Conde Nast Publications 
+1313 N. Market Street
+"Wilmington, DE 19801"
+
+"To view our privacy policy, please click here."
+http://links.mkt637.com/ctt?kn=1&m=1236537&r=NzY4MDQ4MDE5MQS2&b=2&j=MTMyODIxMTcyS0&mt=1&rt=0
+
+If you would like to be removed from the 
+"Vanity Fair mailing list, click here."
+http://links.mkt637.com/servlet/OneClickOptOutServlet?m=1236537&r=NzY4MDQ4MDE5MQS2&b=0&j=MTMyODIxMTcyS0&mt=1&rt=0
+
+
+Copyright(C) 2008 Conde Nast.
+All rights reserved.
+
+
+
+--mimepart_48f4e6326e988_d30241369a6d7
+Content-Type: text/html; charset=ISO-8859-15
+Content-Transfer-Encoding: Quoted-printable
+
+<html><HEAD><TITLE>Vanity Fair</TITLE></HEAD>
+<BODY bgColor=3D#ffffff leftMargin=3D0 topMargin=3D0 marginheight=3D"0" mar=
+ginwidth=3D"0"><IMG src=3D"http://open.mkt637.com/open/log/1236537/NzY4MDQ4=
+MDE5MQS2/0/MTMyODIxMTcyS0/1/0"><CENTER><FONT SIZE=3D"1" COLOR=3D"#000000" F=
+ACE=3D"ARIAL">This message contains graphics.  If you do not see the graphi=
+cs, <A href=3D"http://links.mkt637.com/servlet/MailView?ms=3DMTIzNjUzNwS2&r=
+=3DNzY4MDQ4MDE5MQS2&j=3DMTMyODIxMTcyS0&mt=3D1&rt=3D0">click here to view</A=
+>.</FONT><font face=3D"ARIAL" color=3D"#808080" size=3D"2"><br></font></CEN=
+TER><!-- ImageReady Slices (Untitled-1) -->
+<TABLE cellSpacing=3D0 cellPadding=3D0 width=3D600 align=3Dcenter border=3D=
+0>
+
+<TR>
+<TD style=3D"PADDING-RIGHT: 20px; PADDING-LEFT: 20px; FONT-SIZE: 11px; PADD=
+ING-BOTTOM: 10px; COLOR: #333; PADDING-TOP: 10px; FONT-FAMILY: Arial, Helve=
+tica, sans-serif; TEXT-ALIGN: center">To ensure you receive your Vanity Fai=
+r emails, <BR>please add <A style=3D"COLOR: #333" href=3D"mailto:vanity_fai=
+r@email.vanityfairmagazine.com" >vanity_fair@email.vanityfairmagazine.com</=
+A> to your address book.<BR></TD></TR></TABLE>
+<TABLE style=3D"BORDER-RIGHT: #eee 1px solid; BORDER-TOP: #eee 1px solid; B=
+ORDER-LEFT: #eee 1px solid; BORDER-BOTTOM: #eee 1px solid" cellSpacing=3D0 =
+cellPadding=3D0 width=3D600 align=3Dcenter border=3D0>
+
+<TR>
+<TD style=3D"PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PA=
+DDING-TOP: 20px">
+<TABLE id=3DTable_ height=3D103 cellSpacing=3D0 cellPadding=3D0 width=3D444=
+ align=3Dcenter border=3D0>
+
+<TR>
+<TD style=3D"FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: #000; LINE-HEIGHT=
+: 10px; FONT-FAMILY: Arial; TEXT-ALIGN: left"><IMG height=3D243 alt=3D"Vani=
+ty Fair Campaign New York" src=3D'http://content.mkt921.com/ra/2008/10/14/1=
+236537/0809_vf_cny2_html_logo.gif.gif' width=3D550   sp ></TD></TR></TABLE>=
+</TD></TR>
+<TR>
+<TD>
+<TABLE cellSpacing=3D0 cellPadding=3D0 width=3D600 border=3D0>
+
+<TR>
+<TD style=3D"PADDING-RIGHT: 10px; PADDING-LEFT: 10px; FONT-WEIGHT: normal; =
+FONT-SIZE: 16px; PADDING-BOTTOM: 10px; COLOR: #5a4099; LINE-HEIGHT: 24px; P=
+ADDING-TOP: 10px; FONT-FAMILY: Arial; TEXT-ALIGN: center"><STRONG>Exclusive=
+ly for American Express<SUP>=AE</SUP> Cardmembers, <BR>Lambertson Truex pre=
+sents the Collector=92s Edition =93Index of Happiness=94 and the Limited-ed=
+ition =93Gertrude=94 totes </STRONG></TD></TR></TABLE></TD></TR>
+<TR>
+<TD>
+<DIV align=3Dcenter><!-- BEGIN IMAGES OF PARTY AND BAGS -->
+<TABLE id=3DTable_01 height=3D306 cellSpacing=3D0 cellPadding=3D0 width=3D5=
+50 border=3D0>
+
+<TR>
+<TD><A href=3D"http://links.mkt637.com/ctt?kn=3D3&m=3D1236537&r=3DNzY4MDQ4M=
+DE5MQS2&b=3D0&j=3DMTMyODIxMTcyS0&mt=3D1&rt=3D0" target=3D_blank name=3Dad_d=
+oubleclick_net_clk;2079728 ><IMG height=3D306 alt=3D"" src=3D'http://conten=
+t.mkt921.com/ra/2008/10/14/1236537/0809_vf_cny2_html_bags_01.jpg.jpg' width=
+=3D326 border=3D0   sp ></A></TD>
+<TD><A href=3D"http://links.mkt637.com/ctt?kn=3D2&m=3D1236537&r=3DNzY4MDQ4M=
+DE5MQS2&b=3D0&j=3DMTMyODIxMTcyS0&mt=3D1&rt=3D0" target=3D_blank name=3Dad_d=
+oubleclick_net_clk;2079728(1) ><IMG height=3D306 alt=3D"" src=3D'http://con=
+tent.mkt921.com/ra/2008/10/14/1236537/0809_vf_cny2_html_bags_02.jpg.jpg' wi=
+dth=3D224 border=3D0   sp ></A></TD></TR></TABLE><!-- END IMAGES OF PARTY A=
+ND BAGS --></DIV></TD></TR>
+<TR>
+<TD>
+<TABLE cellSpacing=3D0 cellPadding=3D0 align=3Dcenter border=3D0>
+
+<TR>
+<TD style=3D"PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 20px; P=
+ADDING-TOP: 20px"><IMG height=3D1 alt=3Dspacer src=3D'http://content.mkt921=
+.com/ra/2008/10/14/1236537/0809_vf_cny2_html_sliver_01.gif.gif' width=3D178=
+ border=3D0   sp ></TD></TR></TABLE></TD></TR>
+<TR>
+<TD>
+<TABLE cellSpacing=3D0 cellPadding=3D0 width=3D600 border=3D0>
+
+<TR>
+<TD style=3D"PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: normal; FO=
+NT-SIZE: 12px; PADDING-BOTTOM: 10px; COLOR: #000; LINE-HEIGHT: 18px; PADDIN=
+G-TOP: 5px; FONT-FAMILY: Arial; TEXT-ALIGN: center"><STRONG>In partnership =
+with Campaign New York, Lambertson Truex has created these totes with the m=
+odern sophistication and superior craftsmanship the brand is known for=97an=
+d in limited quantities <EM>only</EM>.</STRONG></TD></TR>
+<TR>
+<TD style=3D"PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: normal; FO=
+NT-SIZE: 12px; PADDING-BOTTOM: 10px; COLOR: #000; LINE-HEIGHT: 18px; PADDIN=
+G-TOP: 5px; FONT-FAMILY: Arial; TEXT-ALIGN: center">When you use your Ameri=
+can Express<SUP>=AE</SUP> Card to purchase one of the totes, 15 percent of =
+the purchase price will be donated to the Whitney Museum of American Art=92=
+s Photography Program, Collection, and Special Exhibitions.*</TD></TR>
+<TR>
+<TD style=3D"PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: normal; FO=
+NT-SIZE: 11px; PADDING-BOTTOM: 10px; COLOR: #000; LINE-HEIGHT: 16px; PADDIN=
+G-TOP: 5px; FONT-FAMILY: Arial; TEXT-ALIGN: center">If you don't have an Am=
+erican Express Card, call 1.800.THE.CARD to apply or visit <A style=3D"COLO=
+R: #000000" href=3D"http://links.mkt637.com/ctt?kn=3D5&m=3D1236537&r=3DNzY4=
+MDQ4MDE5MQS2&b=3D0&j=3DMTMyODIxMTcyS0&mt=3D1&rt=3D0" target=3D_blank name=
+=3D800thecard_com >800thecard.com</A> to learn more. The featured Lambertso=
+n Truex bags must be purchased using an American Express Card. Donation is =
+not tax deductible for Cardmembers. All offers are subject to availability =
+by the vendor. This offer begins September 2, 2008, at 12:01 AM ET and ends=
+ October 31, 2008, at 11:59 PM ET. Vanity Fair is not involved in the manuf=
+acture of any products and disclaims all liability in connection therewith.=
+ *Except as to sales in AL, IL, MA, ME, and SC.</TD></TR></TABLE></TD></TR>
+<TR>
+<TD>
+<TABLE cellSpacing=3D0 cellPadding=3D0 align=3Dcenter border=3D0>
+
+<TR>
+<TD style=3D"PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 10px; P=
+ADDING-TOP: 10px"><IMG height=3D1 alt=3Dspacer src=3D'http://content.mkt921=
+.com/ra/2008/10/14/1236537/0809_vf_cny2_html_sliver_01.gif.gif' width=3D178=
+ border=3D0   sp ></TD></TR></TABLE></TD></TR>
+<TR>
+<TD>
+<TABLE cellSpacing=3D0 cellPadding=3D0 align=3Dcenter border=3D0>
+
+<TR>
+<TD style=3D"PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: normal; FO=
+NT-SIZE: 10px; PADDING-BOTTOM: 10px; COLOR: #000; LINE-HEIGHT: 10px; PADDIN=
+G-TOP: 5px; FONT-FAMILY: Arial; TEXT-ALIGN: left"><IMG height=3D129 alt=3D"=
+American Express" src=3D'http://content.mkt921.com/ra/2008/10/14/1236537/08=
+09_vf_cny2_html_amex.gif.gif' width=3D167   sp ></TD></TR></TABLE></TD></TR=
+></TABLE>
+<TABLE cellSpacing=3D0 cellPadding=3D0 width=3D600 align=3Dcenter border=3D=
+0>
+
+<TR>
+<TD style=3D"PADDING-RIGHT: 20px; PADDING-LEFT: 20px; FONT-SIZE: 11px; PADD=
+ING-BOTTOM: 20px; COLOR: #333; PADDING-TOP: 10px; FONT-FAMILY: Arial, Helve=
+tica, sans-serif; TEXT-ALIGN: center">
+<P><A style=3D"COLOR: #333333" href=3D"mailto:privacy_administration@advanc=
+emags.com" >Privacy Administrator</A><BR>Conde Nast Publications <BR>1313 N=
+. Market Street <BR>Wilmington, DE 19801 <BR><BR>To view our privacy policy=
+, please <A style=3D"COLOR: #333333" href=3D"http://links.mkt637.com/ctt?kn=
+=3D1&m=3D1236537&r=3DNzY4MDQ4MDE5MQS2&b=3D0&j=3DMTMyODIxMTcyS0&mt=3D1&rt=3D=
+0" name=3Dct_wmagazine_us_rd_cts_d_267-1 >click here</A>. <BR><BR>If you wo=
+uld like to be removed from the Vanity Fair mailing list, <A href=3D"http:/=
+/links.mkt637.com/servlet/OneClickOptOutServlet?m=3D1236537&r=3DNzY4MDQ4MDE=
+5MQS2&b=3D0&j=3DMTMyODIxMTcyS0&mt=3D1&rt=3D0" name=3DVF_optout  xtlinkname=
+=3D"VF_optout">click here.</A> <BR><BR><BR>Copyright =A9 2008 Cond=E9 Nast.=
+ All rights reserved.</P></TD></TR></TABLE><!-- End ImageReady Slices --></=
+BODY></html>
+
+
+
+--mimepart_48f4e6326e988_d30241369a6d7--
+
+Return-Path: <bounced@godaddy.com>
+Received: by 10.215.39.10 with SMTP id r10cs31973qaj; Tue, 14 Oct 2008 09:53:57 -0500
+Received: ; Tue, 14 Oct 2008 09:53:50 -0500
+Received: from unknown by smtpout25-02.prod.mesa1.secureserver.net with SMTP; Tue, 14 Oct 2008 09:53:50 -0500
+Date: Tue, 14 Oct 2008 09:53:50 -0500
+From: donotreply@godaddy.com
+Reply-To: donotreply@godaddy.com
+To: progressions@gmail.com
+Message-Id: <GDMAILER01PFMD5ceZs0000aebd@gdmailer01.dc1.corp.gd>
+Subject: Item Expiration Notice
+Mime-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: Quoted-printable
+X-Originalarrivaltime: 14 Oct 2008 14:53:50.0976 (UTC) FILETIME=[AB928000:01C92E0C]
+Thread-Topic: Item Expiration Notice
+X-10pl8id: 728
+Priority: normal
+Thread-Index: AckuDKuG5BIaomNHSbS5AnqMHOpgig==
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of bounced@godaddy.com designates 68.178.232.30 as permitted sender) smtp.mail=bounced@godaddy.com
+Received-Spf: pass (google.com: domain of bounced@godaddy.com designates 68.178.232.30 as permitted sender) client-ip=68.178.232.30;
+Content-Class: urn:content-classes:message
+Delivered-To: progressions@gmail.com
+X-Mimeole: Produced By Microsoft MimeOLE V6.00.3790.2826
+Importance: normal
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+ITEM EXPIRATION NOTICE FROM GoDaddy.com, Inc.!
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+-----------------------------------
+Customer number: 6604976
+-----------------------------------
+
+
+Dear Jeff Coleman,
+
+According to the terms of our agreement(s), we have attempted to bill =
+your MasterCard card ending in the last two digits 19 in the amount of $ =
+   10.02 for the following items:
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Product Name                                  Next Billing Date Qty      =
+Price
+------------                                  ----------------- --- =
+----------
+.COM Domain Name Renewal - 1 Year                     CANCELLED   1 $    =
+10.02
+    SPARKTOWERWILSON.COM                                                 =
+    =20
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+If an item has already expired, it is noted above as "CANCELLED" and can =
+no longer be renewed. PLEASE NOTE: Once an item has been cancelled, all =
+related data -- Web site files, emails, databases, etc. -- is removed =
+from our server and cannot be recovered.=20
+
+If there is a date in the "Next Billing Date" column, we will hold your =
+item(s) and attempt to bill again on the date shown, OR you can renew =
+now and qualify for bonus savings by using the following instructions.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+RENEW NOW: =
+https://www.godaddy.com/gdshop/myportal/default.asp?prog_id=3DGoDaddy&pg=3D=
+fail&myid=3D6604976&isc=3Dgdbb72820
+
+You may be asked to log in before you can view your expiring items(s).
+
+You can also follow these steps to renew:
+
+     1. On the GoDaddy.com home page, from the Domains menu, select =
+"Renew Domains."
+
+     2. If prompted, log in with your username or customer number and =
+password.
+
+To retrieve your customer number or password hint or to reset your =
+password, click the "Forgot Your Password?" hyperlink in the login area =
+on the home page.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+To cancel an item, go to GoDaddy.com and log in to "My Account." Click =
+"Renewals" on the left side of the page and then click "Payments & =
+Renewing Items." Select the item(s) from the list that you'd like to =
+cancel and select the "Cancel Item" button.
+
+
+***********************************************************
+BONUS SAVINGS: Once you have renewed your domain(s), TAKE 20%* OFF YOUR =
+ORDER OF $75 OR MORE. Simply enter "gdbb72820" in your shopping cart or =
+mention the offer code when you call (480) 505-8877.
+***********************************************************
+
+
+Thanks as always for being a Go Daddy customer.
+
+Sincerely,
+GoDaddy.com, Inc.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+*Not applicable to premium domains, bulk domain purchases, discounted =
+domain products, Sunrise/Landrush domain registrations, .ME domain =
+registrations, discounted memberships or maintenance plans; additional =
+disk space and bandwidth renewals, custom page layouts, custom headers, =
+posters or gift cards. Discount reflected in your shopping cart -- =
+cannot be used in conjunction with any other offer or promotion.
+
+Copyright (C) 2008 GoDaddy.com, Inc. All rights reserved.
+Return-Path: <wallmaster+y0zy690c@facebookmail.com>
+Received: by 10.215.39.10 with SMTP id r10cs32949qaj; Tue, 14 Oct 2008 10:17:28 -0500
+Received: from www.facebook.com by zmail002.snc1.facebook.com with bizsmtp id SfHT1a04R3rj3YS01fHTSp; Tue, 14 Oct 2008 10:17:27 -0500
+Date: Tue, 14 Oct 2008 10:17:27 -0500
+From: Facebook <wallmaster+y0zy690c@facebookmail.com>
+Reply-To: noreply <noreply@facebookmail.com>
+To: Isaac Priestley <progressions@gmail.com>
+Message-Id: <a4fadbecd491bd579273e0062ac0d2e9@www.facebook.com>
+Subject: Shari Tadema wrote on your Wall...
+Mime-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of wallmaster+y0zy690c@facebookmail.com designates 69.63.178.160 as permitted sender) smtp.mail=wallmaster+y0zy690c@facebookmail.com
+Errors-To: wallmaster+y0zy690c@facebookmail.com
+X-Mailer: ZuckMail [version 1.00]
+Received-Spf: pass (google.com: domain of wallmaster+y0zy690c@facebookmail.com designates 69.63.178.160 as permitted sender) client-ip=69.63.178.160;
+Delivered-To: progressions@gmail.com
+X-Facebook-Notify: wall; from=1180548244
+X-Facebook: from zuckmail ([146.6.191.32])  by www.facebook.com with HTTP (ZuckMail);
+
+Shari wrote on your Wall:
+
+"What's going on? Where is your picture? Where is your status? Hey!!!!!!!!!! We msis Isaac!!"
+
+To see your Wall or to write on Shari's Wall, follow the link below:
+http://www.facebook.com/n/?profile.php&v=feed&id=1385140280
+
+Thanks,
+The Facebook Team
+
+___
+Want to control which emails you receive from Facebook? Go to:
+http://www.facebook.com/editaccount.php?notifications&md=d2FsbDtmcm9tPTExODA1NDgyNDQ7dG89MTM4NTE0MDI4MA==
+
+
+Return-Path: <moveon-bounce-14363-7977060-vgoyjCx@list.moveon.org>
+Received: by 10.215.39.10 with SMTP id r10cs34915qaj; Tue, 14 Oct 2008 11:04:50 -0500
+Received: from [209.66.102.26] by web01.moveon.org with ECSTREAM id CA/12-11551-D03C4F84 for <progressions@gmail.com>; Tue, 14 Oct 2008 11:04:29 -0500
+Date: Tue, 14 Oct 2008 11:04:29 -0500
+From: "Adam Ruben, MoveOn.org Political Action" <moveon-help@list.moveon.org>
+To: Jeff Coleman <progressions@gmail.com>
+Message-Id: <79b864-381b-48f4c30d@int-web01.moveon.org>
+Subject: Operation Landslide
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary=mimepart_48f4e63316b48_d30241369a7ed
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of moveon-bounce-14363-7977060-vgoyjCx@list.moveon.org designates 64.124.204.39 as permitted sender) smtp.mail=moveon-bounce-14363-7977060-vgoyjCx@list.moveon.org
+Received-Spf: pass (google.com: domain of moveon-bounce-14363-7977060-vgoyjCx@list.moveon.org designates 64.124.204.39 as permitted sender) client-ip=64.124.204.39;
+Delivered-To: progressions@gmail.com
+
+This is a multi-part message in MIME format.
+
+
+--mimepart_48f4e63316b48_d30241369a7ed
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+
+Dear MoveOn member,
+
+To create the bold, progressive change America needs, a narrow victory
+isn't enough.
+
+We need a landslide.
+
+The polls are shifting our way. And even though we can't take anything for
+granted, it's worth all of us asking ourselves: if we really do have a
+shot at a once-in-a-generation, history-changing election, how hard are we
+willing to work?
+
+Here's one thing you can do right now to help produce a landslide: grab
+your phone, click this link, and spend a few minutes calling MoveOn
+members in swing states and asking them to volunteer:
+
+http://pol.moveon.org/obama/teams/index.html?id=14363-7977060-vgoyjCx&t=10
+
+These calls are quick and easy to make, even if you've never called
+before. We've heard from MoveOn members in swing states that these calls
+are often all it takes to get them out to Obama offices to volunteer. In
+just a few minutes, you can generate hours and hours of vote-winning
+volunteer energy, right where it counts.
+
+Remember Howard Dean's 50-state strategy? Remember Obama's speech in 2004,
+declaring that there are no red states and blue states? This could be the
+year that we redraw the political map. That we turn Colorado, North
+Carolina, Indiana, Ohio, and Florida blue. This economic crisis is
+reminding us that we're all in this together--and if we rise to the
+moment, we could create the kind of political tidal wave that makes real,
+deep change possible.
+
+And here's something else worth keeping in mind: you can't steal a
+landslide.
+
+So let's keep pushing. Click here to start making calls:
+
+http://pol.moveon.org/obama/teams/index.html?id=14363-7977060-vgoyjCx&t=11
+
+Thanks for all you do.
+
+--Adam, Michael, Ray, Andrea and the rest of the team
+
+Want to support our work? We're entirely funded by our 4.2 million
+members--no corporate contributions, no big checks from CEOs. And our tiny
+staff ensures that small contributions go a long way. Chip in here.
+________________
+PAID FOR BY MOVEON.ORG POLITICAL ACTION, http://pol.moveon.org/. 
+Not authorized by any candidate or candidate's committee. This 
+email was sent to Jeff Coleman on October 14, 2008>. 
+To change your email address or update your contact info, visit: 
+http://moveon.org/subscrip/coa.html?id=14363-7977060-vgoyjCx. 
+To remove yourself (Jeff Coleman) from this list, visit: 
+http://moveon.org/s?i=14363-7977060-vgoyjCx
+
+
+--mimepart_48f4e63316b48_d30241369a7ed
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html><head><title></title>
+<style type="text/css">
+body, td, font { font-size: 10pt; }
+/* Yahoo! Mail workarounds */
+td p { margin: 0em; }
+p { margin: 1em 0em; }
+td div p { margin: 1em 0em; }
+</style>
+</head><body marginheight=5 topmargin=5>
+<font face="Arial, Verdana, sans-serif" size=2>
+<table cellspacing="0" cellpadding="0" align="right"><tbody><tr><td id="boxholder"><font size="2" face="Arial, Verdana, sans-serif"></font>
+
+<table width="220" cellspacing="0" cellpadding="0" bgcolor="#ffffff" style="border: 1px solid rgb(128, 128, 128); margin-left:
+10px; margin-bottom: 5px;"><tbody><tr><td style="padding: 10px;"><font size="2" face="Arial, Verdana, sans-serif"><span style="font-weight:
+bold;"></span>Let's make 2008 a landslide victory. Calls to MoveOn members in swing states have energized thousands of volunteers&#8212;<span
+style="font-weight: bold;">please take 20 minutes to energize some more! </span>
+</font>
+<br />
+<br />
+<center><a href="http://pol.moveon.org/obama/teams/index.html?id=14363-7977060-vgoyjCx&amp;t=1"><img width="150" height="36" border="0"
+style="display: block;" src="http://www.moveon.org/images/buttons/button_red_clickhere.gif" /></a><font size="-2"><a href="http://pol.moveon.org/obama/teams/index.html?id=14363-7977060-vgoyjCx&amp;t=2">Start
+calling</a></font>
+
+<a href="http://pol.moveon.org/obama/teams/index.html?id=14363-7977060-vgoyjCx&amp;t=3"><img width="200" height="90" border="0" style="display:
+block;" src="http://s3.moveon.org/obama/images/mo4obamalogo.gif" /></a><font size="-2"><a href="http://"></a></font></center></td></tr></tbody></table>
+
+</td></tr></tbody></table>
+
+Dear MoveOn member,
+<p>
+To create the bold, progressive change America needs, a narrow victory isn't enough.</p>
+
+<p>
+<span style="font-weight: bold;">We need a landslide.</span></p>
+
+<p>
+The polls are shifting our way. And even though we can't take anything for granted, it's worth all of us asking ourselves:
+if we really do have a shot at a once-in-a-generation, history-changing election, how hard are we willing to work?</p>
+
+<p>
+Here's one thing you can do right now to help produce a landslide: <span style="font-weight: bold;">grab your phone, click
+this link, and spend a few minutes calling MoveOn members in swing states</span> and asking them to volunteer:</p>
+
+<font size="2" face="Arial" color="navy"><a href="http://pol.moveon.org/obama/teams/index.html?id=14363-7977060-vgoyjCx&amp;t=4">http://pol.moveon.org/obama/teams/index.html?id=14363-7977060-vgoyjCx&amp;t=4</a></font>
+<p>
+These calls are quick and easy to make, even if you've never called before. We've heard from MoveOn members in swing states
+that these calls are often all it takes to get them out to Obama offices to volunteer. In just a few minutes, you can generate
+hours and hours of vote-winning volunteer energy, right where it counts.</p>
+
+<p>
+Remember Howard Dean's 50-state strategy? Remember Obama's speech in 2004, declaring that there are no red states and blue
+states? This could be the year that we redraw the political map. That we turn Colorado, North Carolina, Indiana, Ohio, and
+Florida blue. This economic crisis is reminding us that we're all in this together&#8212;and if we rise to the moment, we
+could create the kind of political tidal wave that makes real, deep change possible.</p>
+
+<p>
+And here's something else worth keeping in mind: <span style="font-weight: bold;">you can't steal a landslide.</span></p>
+
+<p>
+So let's keep pushing. Click here to start making calls:</p>
+
+<p style="overflow: hidden;">
+<font size="2" face="Arial" color="navy"><a href="http://pol.moveon.org/obama/teams/index.html?id=14363-7977060-vgoyjCx&amp;t=5">http://pol.moveon.org/obama/teams/index.html?id=14363-7977060-vgoyjCx&amp;t=5</a></font></p>
+
+<p>
+Thanks for all you do.<p>&ndash;<font><font size="2" face="Arial, Verdana, sans-serif">Adam, Michael, Ray, Andrea and the
+rest of the team
+</font></font></p>
+
+<br />
+<p><span style="font-weight: bold;">Want to support our work?</span>
+                We're entirely funded by our 4.2 million members&#8212;no
+                corporate contributions, no big checks from CEOs. And our
+                tiny staff ensures that small contributions go a long way.
+                <a href="http://political.moveon.org/donate/email.html?id=14363-7977060-vgoyjCx&amp;t=6">Chip in here</a>.</p>
+
+            
+<hr>
+<font size="-2">PAID FOR BY MOVEON.ORG POLITICAL ACTION, http://pol.moveon.org/. Not authorized by any candidate or candidate's committee. This email was sent to Jeff Coleman on October 14, 2008. To change your email address or update your contact info, <a href="http://moveon.org/subscrip/coa.html?id=14363-7977060-vgoyjCx">click here</a>. To remove yourself from this list, <a href="http://moveon.org/s?i=14363-7977060-vgoyjCx">click here</a>.</font>
+<img src="http://open.moveon.org/o.gif?id=14363-7977060-vgoyjCx" HEIGHT="1" WIDTH="1">
+</font>
+</body></html>
+
+
+--mimepart_48f4e63316b48_d30241369a7ed--
+
+
+
+Return-Path: <CgdXWAJtUQJSAAEEBgAHUgYNCFRRVA@bounce.bluestatedigital.com>
+Received: by 10.215.39.10 with SMTP id r10cs39273qaj; Tue, 14 Oct 2008 12:43:26 -0500
+Received: by mta-inap8.bluestatedigital.com id E82DC64165EA1; Tue, 14 Oct 2008 12:36:56 -0500
+Date: Tue, 14 Oct 2008 12:36:56 -0500
+From: "David Plouffe, BarackObama.com" <info@barackobama.com>
+Reply-To: info@barackobama.com
+To: Jeff Coleman <progressions@gmail.com>
+Message-Id: <961b0f336500c16869334127b5740ee8@localhost.localdomain>
+Subject: Help Texas reach the goal
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary=mimepart_48f4e63348440_d30241369a855
+X-Maillist-Guid: CgdXWAJtUQJSAAEEBgAHUgYNCFRRVA
+X-Maillist-Id: 7673117e43e48fec
+X-Priority: 3
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of CgdXWAJtUQJSAAEEBgAHUgYNCFRRVA@bounce.bluestatedigital.com designates 69.25.74.166 as permitted sender) smtp.mail=CgdXWAJtUQJSAAEEBgAHUgYNCFRRVA@bounce.bluestatedigital.com
+X-Mailer: PHPMailer [version 1.72-blue_mailer]
+Received-Spf: pass (google.com: domain of CgdXWAJtUQJSAAEEBgAHUgYNCFRRVA@bounce.bluestatedigital.com designates 69.25.74.166 as permitted sender) client-ip=69.25.74.166;
+Delivered-To: progressions@gmail.com
+
+
+
+--mimepart_48f4e63348440_d30241369a855
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: Quoted-printable
+
+Jeff --
+
+You need to see some of the offensive attacks we're up against. I just =
+recorded a short video on my laptop about John McCain's negative ads.
+
+In the remaining 21 days, we need to be ready to respond to smears like =
+these -- and worse.
+
+We need to show that our supporters will fight back against the McCain =
+campaign's low road tactics. That's why our goal is to bring 100,000 new =
+donors into this movement before midnight on Friday, October 17th.
+
+That means in Texas we need 5,000 new donors to step up this week.
+
+Now is the time to make your first donation. This is your last opportunity =
+to partner with a previous donor who will match every dollar.
+
+Your donation of $5 becomes $10, $25 becomes $50, and $50 becomes $100 =
+when it's matched by a fellow supporter. Watch the video and double your =
+impact by making a matched donation today:
+
+https://donate.barackobama.com/octobermatch1
+
+John McCain and his allies want smears and lies to drive this election.=20
+
+That must be because the McCain campaign knows they don't have good =
+answers for the issues that matter to ordinary people in Texas -- like the =
+economy, health care, and ending the war in Iraq responsibly. And they've =
+flatly stated that if they talk about the economy, they will lose.
+
+Instead, they keep coming up with new, outrageous attacks that are even =
+more offensive and baseless than the ones before.
+
+The issues facing our country are too important to let our next president =
+be determined by petty political tactics.
+
+Help reach the goal of 100,000 new donors this week. You can provide the =
+vital resources needed to fight back against these attacks and show John =
+McCain that there's a cost to his 100% negative campaign.
+
+Double your impact today with a matched donation. Make your first donation =
+to help bring the change we need on November 4th:
+
+https://donate.barackobama.com/octobermatch1
+
+We've already seen the cost of eight years of failed policies.
+
+With just 21 days left, we have to show John McCain the cost of ignoring =
+the real issues and focusing on false, negative attacks.
+
+Thanks,
+
+David
+
+David Plouffe
+Campaign Manager
+Obama for America
+
+
+Donate: https://donate.barackobama.com/octobermatch1
+
+
+---------------------------------------------------------------------
+Paid for by Obama for America
+This email was sent to: progressions@gmail.com
+To unsubscribe, go to: http://my.barackobama.com/unsubscribe
+
+
+
+--mimepart_48f4e63348440_d30241369a855
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: Quoted-printable
+
+<html>
+<head><title>Obama for America</title></head>
+<body>
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+<tr><td width=3D"90%" style=3D"padding:10px;font-size:12px; =
+font-family:Verdana, Helvetica sans-serif;"><font face=3D"Verdana, =
+Helvetica, sans-serif">Jeff --
+<br /><br />
+You need to see some of the offensive attacks we're up against. I just =
+recorded a short video on my laptop about John McCain's negative ads.
+<br /><br />
+In the remaining 21 days, we need to be ready to respond to smears like =
+these -- and worse.
+<br /><br />
+We need to show that our supporters will fight back against the McCain =
+campaign's low road tactics. That's why our goal is to bring 100,000 new =
+donors into this movement before midnight on Friday, October 17th.
+<br /><br />
+<strong>That means in Texas we need 5,000 new donors to step up this =
+week.</strong>
+<br /><br />
+Now is the time to make your first donation. This is your last opportunity =
+to partner with a previous donor who will match every dollar.
+<br /><br />
+<strong><a href=3D"http://my.barackobama.com/page/m2/55c13a38/504261bf/67b=
+0ed4f/1188bc75/4171990118/VEsH/">Your donation of $5 becomes $10, $25 =
+becomes $50, and $50 becomes $100 when it's matched by a fellow supporter. =
+Watch the video and double your impact by making a matched donation =
+today.</a></strong>
+<br /><br />
+<div align=3D"center"><a href=3D"http://my.barackobama.com/page/m2/55c13a3=
+8/504261bf/67b0ed4f/1188bc75/4171990118/VEsE/"><img =
+src=3D"http://my.barackobama.com/page/contribute_c/100k_lastvid/graphic" =
+alt=3D"Watch the video and double your impact" border=3D"0" height=3D"200" =
+width=3D"600"></a></div>
+<br />
+John McCain and his allies want smears and lies to drive this election.=20
+<br /><br />
+That must be because the McCain campaign knows they don't have good =
+answers for the issues that matter to ordinary people in Texas -- like the =
+economy, health care, and ending the war in Iraq responsibly. And they've =
+flatly stated that if they talk about the economy, they will lose.
+<br /><br />
+Instead, they keep coming up with new, outrageous attacks that are even =
+more offensive and baseless than the ones before.
+<br /><br />
+The issues facing our country are too important to let our next president =
+be determined by petty political tactics.
+<br /><br />
+Help reach the goal of 100,000 new donors this week. You can provide the =
+vital resources needed to fight back against these attacks and show John =
+McCain that there's a cost to his 100% negative campaign.
+<br /><br />
+Double your impact today with a matched donation. Make your first donation =
+to help bring the change we need on November 4th:
+<br /><br />
+<strong><a href=3D"http://my.barackobama.com/page/m2/55c13a38/504261bf/67b=
+0ed4f/1188bc75/4171990118/VEsF/">https://donate.barackobama.com/match</a><=
+/strong>
+<br /><br />
+We've already seen the cost of eight years of failed policies.
+<br /><br />
+With just 21 days left, we have to show John McCain the cost of ignoring =
+the real issues and focusing on false, negative attacks.
+<br /><br />
+Thanks,
+<br /><br />
+David
+<br /><br />
+David Plouffe<br />
+Campaign Manager<br />
+Obama for America
+<br /><br /><br />
+<div align=3D"center"><a href=3D"http://my.barackobama.com/page/m2/55c13a3=
+8/504261bf/67b0ed4f/1188bc75/4171990118/VEsC/"> <img =
+src=3D"http://www.barackobama.com/images/177_donate.jpg" alt=3D"Donate" =
+border=3D"0" /></a></div></font>
+<br /><br /><br />
+</td><td>&nbsp;</td></tr>
+<tr><td style=3D"border-top:1px solid #919194;">
+<br />
+<div style=3D"border:1px solid =
+#333333;width:200px;font-size:10px;text-align:center">Paid for by Obama =
+for America</div>
+<p style=3D"font-size:10px">This email was sent to: =
+progressions@gmail.com</p>
+<p style=3D"font-size:10px">To unsubscribe, go to: <a =
+href=3D"http://my.barackobama.com/page/m2/55c13a38/504261bf/67b0ed4f/1188b=
+c74/4171990118/VEsD/">http://my.barackobama.com/unsubscribe</a></p>
+  </td>
+  <td align=3D"right" style=3D"border-top:1px solid =
+#919194;">&nbsp;</td></tr>
+</table>
+</body>
+</html><img src=3D"http://my.barackobama.com/page/o2/55c13a38/504261bf/67b=
+0ed4f/1188bc77/4171990118/open.gif" width=3D"22" height=3D"1" />
+
+
+
+
+--mimepart_48f4e63348440_d30241369a855--
+Received: by 10.215.39.10 with HTTP; Tue, 14 Oct 2008 12:59:11 -0500
+Date: Tue, 14 Oct 2008 12:59:11 -0500
+From: Jeff Coleman <progressions@gmail.com>
+To: "support@railsplayground.com" <support@railsplayground.com>
+Message-Id: <ac7a7d090810141059s3b00aa78rcf9f07afe4eefef4@mail.gmail.com>
+Subject: Subdomain issues
 Mime-Version: 1.0
 Content-Type: text/plain; charset=ISO-8859-1
 Content-Transfer-Encoding: 7bit
 Content-Disposition: inline
 Delivered-To: progressions@gmail.com
 
-On Mon, Oct 13, 2008 at 6:36 PM, Jeff Coleman <progressions@gmail.com> wrote:
-> test
+I'm attempting to deploy an application on my site colemanation.org
+under the subdomain "backup.colemanation.org".
+
+It points to "/backup/current/public" and I believe I have my
+permissions set correctly, but I am receiving a message saying:
+
+"We're sorry, but something went wrong."
+
+I'm trying to deploy this app for a job interview so I'd like to get
+it working soon.  Do you know what is causing the problem?
+
+Thanks,
+Jeff
+
+-- 
+Jeff Coleman
+World Racketeering Squad
+http://www.worldracketeeringsquad.com
+http://www.youtube.com/worldracketeer
+Return-Path: <support@railsplayground.com>
+Received: by 10.215.39.10 with SMTP id r10cs40071qaj; Tue, 14 Oct 2008 12:59:41 -0500
+Received: ; Tue, 14 Oct 2008 12:59:39 -0500
+Received: from unknown by 127.0.0.1 with ESMTPA; Tue, 14 Oct 2008 12:59:39 -0500
+Date: Tue, 14 Oct 2008 12:59:38 -0500
+From: RailsPlayground Support <support@railsplayground.com>
+Reply-To: support@railsplayground.com
+To: progressions@gmail.com
+Message-Id: <k8qpze.b1u5zc@support.hostingplayground.com>
+Subject: [#XHH-152172]: Subdomain issues
+Mime-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of support@railsplayground.com designates 207.162.216.162 as permitted sender) smtp.mail=support@railsplayground.com; domainkeys=pass header.From=support@railsplayground.com
+Domainkey-Signature: a=rsa-sha1; q=dns; c=nofws; s=private; d=railsplayground.com; b=IAsfZB0/+QU22KzI1NMj8h8EoZAQCnGlW0rjb8Cbpft3+QrC48ekZKVCrvv+hyS+;
+X-Mailer: Kayako eSupport v3.30.02
+Received-Spf: pass (google.com: domain of support@railsplayground.com designates 207.162.216.162 as permitted sender) client-ip=207.162.216.162;
+Domainkey-Status: good
+Delivered-To: progressions@gmail.com
+Comment: DomainKeys? See http://antispam.yahoo.com/domainkeys
+
+Jeff Coleman,
+
+Your Ticket has been received and a member of our staff will review it and reply accordingly. Listed below are details of this Ticket. Please make sure the Ticket ID remains in the subject at all times.
+
+	Ticket ID: XHH-152172
+	Subject: Subdomain issues
+	Department: RailsPlayground - General
+	Priority: Medium
+	Status: Open
+
+You can check the status of or reply to this Ticket online at: https://support.hostingplayground.com/index.php?_m=tickets&_a=viewticket&ticketid=10589
+Please do let us know if we can assist you any further,
+
+Hosting Playground Inc.
+
+Return-Path: <www-data@pup290.conepuppy.com>
+Received: by 10.215.39.10 with SMTP id r10cs40916qaj; Tue, 14 Oct 2008 13:17:52 -0500
+Received: from www-data by pup290.conepuppy.com with local id 1KpoSt-0001jQ-00 for <progressions@gmail.com>; Tue, 14 Oct 2008 13:17:51 -0500
+Date: Tue, 14 Oct 2008 13:17:51 -0500
+From: newsletter@blogcritics.org
+Sender: www-data <www-data@pup290.conepuppy.com>
+To: progressions@gmail.com
+Message-Id: <e57133ed3a6425ddb8122a56975f8c35@www.blogcritics.org>
+Subject: First BC/Technorati Project!
+Mime-Version: 1.0
+Content-Type: multipart/related; boundary=mimepart_48f4e633b3330_d30241369a9d0; type="text/html"
+X-Listmember: progressions@gmail.com
+X-Messageid: 151
+Precedence: bulk
+X-Priority: 3
+Authentication-Results: mx.google.com; spf=pass (google.com: best guess record for domain of www-data@pup290.conepuppy.com designates 66.154.42.136 as permitted sender) smtp.mail=www-data@pup290.conepuppy.com
+X-Mailer: PHPlist v2.10.2
+Received-Spf: pass (google.com: best guess record for domain of www-data@pup290.conepuppy.com designates 66.154.42.136 as permitted sender) client-ip=66.154.42.136;
+Delivered-To: progressions@gmail.com
+
+
+
+--mimepart_48f4e633b3330_d30241369a9d0
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+
+<html><head>
+        <meta content="text/html;charset=iso-8859-1"
+http-equiv="Content-Type">
+        <title></title>
+<style type="text/css">
+body { font-size : 11px; font-family: Verdana, Arial, Helvetica,
+sans-serif; }
+a { font-size: 11px; color: #ff6600; font-style: normal; font-family:
+verdana, sans-serif; text-decoration: none; }
+a:visited { color: #666666; }
+a:hover {  text-decoration: underline; }
+p { font-weight: normal; font-size: 11px; color: #666666; font-style:
+normal; font-family: verdana, sans-serif; text-decoration: none; }
+h1 {font-weight: bold; font-size: 14px; color: #666666; font-style: normal;
+font-family: verdana, sans-serif; text-decoration: none;}
+h2 {font-weight: bold; font-size: 13px; color: #666666; font-style: normal;
+font-family: verdana, sans-serif; text-decoration: none;}
+h3 {font-weight: bold; font-size: 12px; color: #666666; font-style: normal;
+font-family: verdana, sans-serif; text-decoration: none; margin:0px;
+padding:0px;}
+h4 {font-weight: bold; font-size: 11px; color: #666666; font-style: normal;
+font-family: verdana, sans-serif; text-decoration: none; margin:0px;
+padding:0px;}
+hr {width : 100%; height : 1px; color: #ff9900; size:1px;}
+.forwardform {margin: 0 0 0 0; padding: 0 0 0 0;}
+.forwardinput {margin: 0 0 0 0; padding: 0 0 0 0;}
+.forwardsubmit {margin: 0 0 0 0; padding: 0 0 0 0;}
+div.emailfooter { font-size : 11px; font-family: Verdana, Arial, Helvetica,
+sans-serif; }
+div.emailfooter a { font-size: 11px; color: #ff6600; font-style: normal;
+font-family: verdana, sans-serif; text-decoration: none; }
+</style>
+</head><body><font face="arial,helvetica" style="font-family:
+Verdana;"><font size="2" lang="0"> Hello BCers present and past! After a
+month of basic admin integration and necessary but boring stuff like that,
+Blogcritics writers and editors now get our first crack at a major
+Technorati project, which will really turbo all of the cool things about
+the new relationship and shine a very bright spotlight on those who choose
+to participate. <br /> <br /> What is the project? Many, if not most,
+bloggers use &quot;tags&quot; on their blogs: simple keywords to help
+associate similar posts. Technorati tracks these tags and compiles
+information based on their usage into &quot;tag pages,&quot; such as this
+one: <a href="http://technorati.com/tag/iphone"
+target="_blank">http://technorati.com/tag/<wbr></wbr>iphone</a> or this
+one: <a href="http://technorati.com/tag/blogcritics"
+target="_blank">http://technorati.com/tag/<wbr></wbr>blogcritics</a><br />
+<br /> Right now those look very much like search results pages, but soon
+Technorati will be launching a new design for their tag pages, read by
+millions every month. We get to add brief but pithy descriptions of the
+most popular tags, calling them, for lack of a more creative name,
+&quot;Tag Descriptions.&quot;<br /> <br /> Your tag description should tell
+the reader the basics of that tag and why that particular tag is popular
+within the blogosphere. Tag Descriptions will have a very long shelf life
+and the style for these needs to be information rich and succinct, just
+100-200 words.<br /> <br /> The Tag Descriptions you write will feature
+your byline, linked to your BC Writer Page, bringing recognition and
+traffic to YOU. You will also be seen as the definitive expert on that tag
+subject. Also, if you've written a relevant article on the subject for the
+BC network, you can link to your own article. Juicy!<br /> <br /> More
+guidelines:<br /> <br /> Cover the most relevant aspects of the tag first -
+why does this tag get used so often? <br /> <br /> Think time-neutral.
+Don't describe someone's age, list their birth year. These descriptions
+will live for years as evergreen content.<br /> <br /> We need links - at
+least three per tag description. Try to include one link per factual
+statement. Try to include one link to another Technorati tag page, and one
+link to an article or post on the Blogcritics network, where possible. Link
+to your own article where relevant. Favor links to blogs over static sites.
+Do not link to any single site more than once.<br /> <br /> Tag description
+samples can be found at <a href="../../../../mt/samples.php"
+target="_blank">http://blogcritics.org/mt/<wbr></wbr>samples.php</a> Please
+read the samples and the light of revelation will shine forth!<br /> <br />
+The edit screen for Tag Descriptions is very streamlined. There are no
+sections, categories, or Amazon ASINs; nothing but the text itself. To see
+the list of available tags, visit <a href="../../../../mt/taglist.php"
+target="_blank">http://blogcritics.org/mt/<wbr></wbr>taglist.php</a>
+They're sorted in priority order, with more heavily-trafficked tags
+first.<br /> <br /> Visit that list, pick a tag (or tags) about which you
+know something, and click the &quot;Open&quot; link (or the little pencil
+icon to the left) next to the tag. Save the empty article right away to
+claim that tag for yourself. The little book icon to the left will take you
+to the existing Technorati tag page so you can find out what the
+blogosphere is saying right now, and maybe incorporate some of that into
+your Tag Description.<br /> <br /> We have been charged with writing and
+publishing 500 of these before November 1, when the new tag page design
+will be rolled out. We can do it, but we need everyone to pitch in. Thanks
+as always, and please fell free to ask questions, make suggestions, etc!<br
+/> <br /> Eric Olsen<br />ecolsen2003@cs.com</font></font><br /><br /><div
+class="emailfooter">--<br />
+If you do not want to receive any more newsletters,  <a
+href="http://blogcritics.org/lists/?p=unsubscribe&uid=61098182c9ef25c0bea85ee8ea5f9abc">this
+link</a><br />
+<br />
+To update your preferences and to unsubscribe visit <a
+href="http://blogcritics.org/lists/?p=preferences&uid=61098182c9ef25c0bea85ee8ea5f9abc">this
+link</a><br />
+</div><br /><p align=left><a href="http://www.phplist.com"><img
+src="cid:da5d495df1c28f43ae29a3af1d2b433e" width=70 height=30
+title="Powered by PHPlist version 2.10.2, &copy; tincan ltd" alt="Powered
+by PHPlist2.10.2, &copy tincan ltd" border="0"></a></p></body></html>
+
+
+--mimepart_48f4e633b3330_d30241369a9d0
+Content-Type: image/png; name="powerphplist.png"
+Content-Transfer-Encoding: Base64
+Content-Disposition: inline; filename=powerphplist.png
+
+iVBORw0KGgoAAAANSUhEUgAAAEYAAAAeCAMAAACmLZgsAAADAFBMVEXYx6fmfGXfnmCchGd3VDPi
+pmrouYIHBwe3qpNlVkTmcWHdmFrfRTeojW3IpXn25L7mo3TaGhe6mXLCmm+7lGnntn7sx5Sxh1us
+k3akdEfBiFPtyJfgo2bjqW7krnTjqnDproK1pInvODRRTEKFemnuzaAtIRXenF7KqIHfn2KHcVjt
+yZjnqHrnknLhpGjnt4HeMyzlnnHr1rLkmW3WAADllGuUfmPcKSMcFxLnuICUd1f037kqJiDqv47s
+xZLYAQHLtJLfOTI7KhrInnHqwY7hTUHz2rGDbVTz27Xkr3XJvKPng3HuypzouoPrwo/hXk3x1qzq
+wIvizavrwpDu0atqYVTqnoBdTz7QlFvqtYbgST14cWPar33hYkrw0qZKQjjdml12XkPSv52NhHPo
+vIjjrHLZDQz03bbsxZHcq3fgQjsUEg92YUmUinjgpGbvz6PZtYjcp3Tr2bWEaUzz3LXx1KhFOi7p
+vojy2K314rzjvYzjf2EwLCbw0qRvUzb25MBoSi3gomXdmFvlsXhBOzIiHxrw06i8oHzx1qrqwIvm
+jWt4aVaFXjnopHzuy5724r/supM5Myzeml3qv4rx1Kbou4bmuYTosoHhyaTipWngoWTmtHvms3rj
+rXLmsn2yf07OkFf137zsx5bw1KvmsXjoq33uzqTsxpTouojdl1vlZlvswpDy16rDtZrkbFq3jmHh
+UUXhpmrbHxriX0/lsnrirnf14r/ty6BZPiXouYflsnjmsXvimmZaQSjiqGvipmnhpmn2473msnjo
+vIbtx5nem13w0aRKNCDipWrrw5TsvY7qvokODArhWUnqwI/ip2vemVzlpnTrw5Hjq3Dy17Dihl/x
+SUPvbl3Nu53gUEPfQDPhpWnlh2nwi3ToiXDouYXt27n03LO1nX3bFBHjlmbaCAnroHXYCAfBs5fW
+qXXsxZbnwIzjYFPrw5Ddwp3pvYyUaD7On27RpnjXpXDswJTWpG/gsn3lwJHy4Lv037jiaFbdmVzc
+l1kDAgEEAwIAAACJJzCsAAAAAWJLR0QAiAUdSAAAAAlwSFlzAAALEgAACxIB0t1+/AAAAAd0SU1F
+B9MKFQolCwe/95QAAAXuSURBVHicrZF5XJJ3HMdVHodmZhcmCqbzRFNRSbGpCHk2tF46y6yQyiup
+7LDDpSlgpoVmHjNAXi3TWs0Oj8qt0qxJxyhn1LZga1u2tVou290In31/D7j197YPz+/7+x6/75vv
+83ssjP9B4xMyWhhf/msxgtSg0sbrswEjMRgkBomdBIzBYGdnkIDszLvElJWgwPBSAsljEELCDtYx
+xQfq0lKBQPBRDmAg+4lBKBQaTDLtQskrvrlEEImakChJAAMQdSWBGRTW1/NwvFco0+Dlg2znMfxd
+WS8kcCqs3noMLAaG7TxYXw++TOg9Vu89NjhYL6S9pxaoS9WCJ+ilfEA8qjPurDmYwZP1ysp5Y+Uy
+HhWyuI8z7oNhPoPIYL0+VpCRXfU5yMauoqZB/bPKRoGgcct1OmCsQPDn5VSelRWGjZXzqJh3BprG
+Cs1hhaahYpgVKpsyVpgmAzUxZl/fglT5rNNoMc4A8agMBprGW5bB4zF43kSCgTOuYgwMAw8MdpHI
+OOMMBpWHehi0Hq8tjYBRB+nHLcYVCrGYR1UoFOhuxApvTMwrV5juRpGhOThxN97OcA78iwoxlScW
+Q0DPrkTDVPGlNMDQaOvXw6LRaIGwiIDY//aJKvLEYhSKaaYTnT38RR1VVR1VUVqE0ev1crn+kvwa
+2uR6faD8kt5ajrL6TnD1+v5+eScq6C/p+/X6a4HyQDjZL3eNquyo6ujYfoTSh17Kum9oaMh6CJk+
+a2LvG0LORDRR7YODKI3Ow6P6qnA70qI06dAQYOiguVwOh8XisOIe0ukPdRwiYN6l980jizZDuY9O
+nyUa37mRPmMr3A5OJv06DzYjWmyvoBw6HTBarbaGy8qNO/m0ixUXqtVe0HFyM/9cGM7q+k4bRtYk
+aAnNEuE7Z/+0BI9cuzIL9/t5VuTW/WScXVHhESWFKmBcVapuTteO4ODQyazTD1WqC5M53Jrh0Ls6
+1mdrSGRRgkqVo1KpTrHHN6tI5P0znj+fbz//zPLdMe6RRtuYGF+Ka46rK2CSkpK6WN3DsOlYmcFJ
+ScM6TkEzRDtYr28kaUR+SYQAM+/MXtyWCFqya+PjD5QY98bXJktRAjA9UimTdTNYer69m3lyTtv5
+dpjGra1t6grWp2sQRnpZ2vZhG5pGGkYuCZv5/HHErSPx8dtXleDp57KVUunly1LAtLQovxh5tHBP
+wP1JTyfd3xMQEMcpCJi6Z8Ujzpc98FJ+SqWyRak8xTau7PHNwvEs2wSnA0XfxMcjzDMKdCtbWgBD
+oVCab+bC1+HkjnwLhjuZU5A5DRzdUgrCUAjNBMxvlOklIg18oNUheXlFgLENMhUpgIkANVsyR6Z1
+MbnMrpHwe5mcgnvhuUzL8xERYSKRXwQhhHkc9NoGXyfPrHGNTV5eHsJQgkxVwCQjBbWHBs+1PP7m
+3KnDoXGcuIA5oXMokCYBBpVfSwbM2uXZsfy3QkJSPfBlIS+KYiJhGlMxGTBXmsxyOz3teHBTUztM
+U9fUlIxSJBGbZCpOFxnX/n4uNeSNFy+KbPH0TYlHfOGDv0PUrjQB5uNtZjXrWKdrtm0DDLcOQpQn
+iTTpTvb29k5TprPHw0IWpC+zWXViNVtjk+h1ewpM02RuBUw1oYbqajcuK7Omurpdx2HWNVQTvzAN
+rimJ3LWrxG+3CF/99Toc3+9RgZM9U2tvV0/ZhS/JJjobGgATa1JK7NLu8JNuKbFucSxuXYop6VQR
+CRDAeH6eVbJu04JlWRB7eP7ofzv2lm9WZMIPRGNsLGBGzUqLag9wi0obvbE43PKX0bTR0ZSU0Q0P
+nB48cHd3t7HY9L27xR/FxaknFthYeLnkp6Slvb3b3tfUmfI+YKKj8/OjzYawTxbfAHvU0cW/trDy
+TuKhfQ4DDsUDoOJiB4fiRAG/NRrq+eY24gGMI6GjaCE5tjq2+vvzvQoFiwgEaMBhYADtDmVnEyu9
++HCGOPhPYytgXMzyh2Z+ba1Xobry8J3EvENny8rKHF5V2b7Ew4V8l1fkb+5zAcz/or8Ag3ozZFZX
+3G0AAAAASUVORK5CYII=
+
+
+
+--mimepart_48f4e633b3330_d30241369a9d0--
+
+Return-Path: <support@railsplayground.com>
+Received: by 10.215.39.10 with SMTP id r10cs41236qaj; Tue, 14 Oct 2008 13:25:01 -0500
+Received: ; Tue, 14 Oct 2008 13:24:58 -0500
+Received: from unknown by 127.0.0.1 with ESMTPA; Tue, 14 Oct 2008 13:24:58 -0500
+Date: Tue, 14 Oct 2008 13:24:58 -0500
+From: RailsPlayground Support <support@railsplayground.com>
+Reply-To: support@railsplayground.com
+To: progressions@gmail.com
+Message-Id: <k8qr5m.kvuait@support.hostingplayground.com>
+Subject: [#XHH-152172]: Subdomain issues
+Mime-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of support@railsplayground.com designates 207.162.216.162 as permitted sender) smtp.mail=support@railsplayground.com; domainkeys=pass header.From=support@railsplayground.com
+Domainkey-Signature: a=rsa-sha1; q=dns; c=nofws; s=private; d=railsplayground.com; b=vEECpAHv/Qvt0aJViUny8XWde/wXA+4g82+/xiTTuyquQPUI8FjfHMi8odc/M2Ur;
+X-Mailer: Kayako eSupport v3.30.02
+Received-Spf: pass (google.com: domain of support@railsplayground.com designates 207.162.216.162 as permitted sender) client-ip=207.162.216.162;
+Domainkey-Status: good
+Delivered-To: progressions@gmail.com
+Comment: DomainKeys? See http://antispam.yahoo.com/domainkeys
+
+Hello Jeff,
+
+I could find that there was some problem with the deployment of your application. The shebang line for the dispatch file was not set correctly. I have made the changes now. Also in your environment.rb file the the variable 'env' was defined incorrectly. I have corrected it now. But when I access your application at http://backup.colemanation.org I'm getting the error in connecting to your mysql database. For more information on the error you can check your production.log file
+==========================================================================================================================
+Mysql::Error (Access denied for user 'jcoleman_root'@'localhost' to database 'jcoleman_mailprod'):
+    /usr/local/lib/ruby/gems/1.8/gems/activerecord-2.1.0/lib/active_record/connection_adapters/mysql_adapter.rb:505:in `real_connect'
+    /usr/local/lib/ruby/gems/1.8/gems/activerecord-2.1.0/lib/active_record/connection_adapters/mysql_adapter.rb:505:in `connect'
+==========================================================================================================================
+Make sure that the you have added the mysql database from your Cpanel and have given the correct information of it in the database.yml file.
+
+--
+Kishore Raveendranath
+Level II System Administrator
+RailsPlayground Support
+http://wiki.railsplayground.com
+http://forum.railsplayground.com
+http://noc.railsplayground.net
+
+
+Ticket Details
+===================
+Ticket ID: XHH-152172
+Department: RailsPlayground - General
+Priority: Medium
+Status: On Hold
+
+Received: by 10.215.39.10 with HTTP; Tue, 14 Oct 2008 13:28:16 -0500
+Date: Tue, 14 Oct 2008 13:28:16 -0500
+From: Jeff Coleman <progressions@gmail.com>
+To: support@railsplayground.com
+Message-Id: <ac7a7d090810141128n333842f2m28cc54266d2f5117@mail.gmail.com>
+In-Reply-To: <k8qr5m.kvuait@support.hostingplayground.com>
+References: <k8qr5m.kvuait@support.hostingplayground.com>
+Subject: Re: [#XHH-152172]: Subdomain issues
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline
+Delivered-To: progressions@gmail.com
+
+Woot!  Thanks.  I hadn't set the permissions on the database.  It's up
+and running now.  Thanks again.
+
+
+On Tue, Oct 14, 2008 at 1:24 PM, RailsPlayground Support
+<support@railsplayground.com> wrote:
+> Hello Jeff,
+>
+> I could find that there was some problem with the deployment of your application. The shebang line for the dispatch file was not set correctly. I have made the changes now. Also in your environment.rb file the the variable 'env' was defined incorrectly. I have corrected it now. But when I access your application at http://backup.colemanation.org I'm getting the error in connecting to your mysql database. For more information on the error you can check your production.log file
+> ==========================================================================================================================
+> Mysql::Error (Access denied for user 'jcoleman_root'@'localhost' to database 'jcoleman_mailprod'):
+>    /usr/local/lib/ruby/gems/1.8/gems/activerecord-2.1.0/lib/active_record/connection_adapters/mysql_adapter.rb:505:in `real_connect'
+>    /usr/local/lib/ruby/gems/1.8/gems/activerecord-2.1.0/lib/active_record/connection_adapters/mysql_adapter.rb:505:in `connect'
+> ==========================================================================================================================
+> Make sure that the you have added the mysql database from your Cpanel and have given the correct information of it in the database.yml file.
+>
+> --
+> Kishore Raveendranath
+> Level II System Administrator
+> RailsPlayground Support
+> http://wiki.railsplayground.com
+> http://forum.railsplayground.com
+> http://noc.railsplayground.net
+>
+>
+> Ticket Details
+> ===================
+> Ticket ID: XHH-152172
+> Department: RailsPlayground - General
+> Priority: Medium
+> Status: On Hold
+>
+>
+
+
+
+-- 
+Jeff Coleman
+World Racketeering Squad
+http://www.worldracketeeringsquad.com
+http://www.youtube.com/worldracketeer
+Received: by 10.215.39.10 with HTTP; Tue, 14 Oct 2008 13:34:14 -0500
+Date: Tue, 14 Oct 2008 13:34:14 -0500
+From: Jeff Coleman <progressions@gmail.com>
+To: support@railsplayground.com
+Message-Id: <ac7a7d090810141134o4d3d2738o38829b428a816671@mail.gmail.com>
+In-Reply-To: <ac7a7d090810141128n333842f2m28cc54266d2f5117@mail.gmail.com>
+References: <k8qr5m.kvuait@support.hostingplayground.com> <ac7a7d090810141128n333842f2m28cc54266d2f5117@mail.gmail.com>
+Subject: Re: [#XHH-152172]: Subdomain issues
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline
+Delivered-To: progressions@gmail.com
+
+I have another question, that might help me track down a related issue.
+
+Does my application have permissions to create files on the server?
+My app is intending to read from a POP3 account and create a text file
+with the emails on it, then allow the user to download that file.
+
+Do I have permissions to create the file that way?
+
+In my backup_controller.rb I use the following line to open the file:
+
+File.open("public/#{@filename}", File::CREAT|File::TRUNC|File::WRONLY) do |file|
+
+Will this create the file?
+
+Thanks.
+
+On Tue, Oct 14, 2008 at 1:28 PM, Jeff Coleman <progressions@gmail.com> wrote:
+> Woot!  Thanks.  I hadn't set the permissions on the database.  It's up
+> and running now.  Thanks again.
+>
+>
+> On Tue, Oct 14, 2008 at 1:24 PM, RailsPlayground Support
+> <support@railsplayground.com> wrote:
+>> Hello Jeff,
+>>
+>> I could find that there was some problem with the deployment of your application. The shebang line for the dispatch file was not set correctly. I have made the changes now. Also in your environment.rb file the the variable 'env' was defined incorrectly. I have corrected it now. But when I access your application at http://backup.colemanation.org I'm getting the error in connecting to your mysql database. For more information on the error you can check your production.log file
+>> ==========================================================================================================================
+>> Mysql::Error (Access denied for user 'jcoleman_root'@'localhost' to database 'jcoleman_mailprod'):
+>>    /usr/local/lib/ruby/gems/1.8/gems/activerecord-2.1.0/lib/active_record/connection_adapters/mysql_adapter.rb:505:in `real_connect'
+>>    /usr/local/lib/ruby/gems/1.8/gems/activerecord-2.1.0/lib/active_record/connection_adapters/mysql_adapter.rb:505:in `connect'
+>> ==========================================================================================================================
+>> Make sure that the you have added the mysql database from your Cpanel and have given the correct information of it in the database.yml file.
+>>
+>> --
+>> Kishore Raveendranath
+>> Level II System Administrator
+>> RailsPlayground Support
+>> http://wiki.railsplayground.com
+>> http://forum.railsplayground.com
+>> http://noc.railsplayground.net
+>>
+>>
+>> Ticket Details
+>> ===================
+>> Ticket ID: XHH-152172
+>> Department: RailsPlayground - General
+>> Priority: Medium
+>> Status: On Hold
+>>
+>>
+>
+>
 >
 > --
 > Jeff Coleman

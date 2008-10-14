@@ -19,7 +19,7 @@ class BackupController < ApplicationController
       @connection.start(@username, @password)
       
       @count = 0
-      @error = false
+      # @error = false
       
       @filename = Digest::SHA1.hexdigest("--#{@username}--") + ".mbox"
       
@@ -40,8 +40,8 @@ class BackupController < ApplicationController
     
       @connection.finish
   
-    rescue
-      @error = true
+    #rescue 
+      
     end
   end    
 end

@@ -23,7 +23,7 @@ set :keep_releases, 3
  
 set :user, 'jcoleman'
 set :server, 'colemanation.org'
-set :application, "mailer" 
+set :application, "backup" 
 
 role :web, 'colemanation.org'
 role :app, 'colemanation.org'

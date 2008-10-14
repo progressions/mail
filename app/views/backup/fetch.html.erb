@@ -1,1 +1,31 @@
 <% title "Fetching" %>
+
+<% unless @error %>
+<p>Fetched <%= pluralize(@count, "email") %> from the following settings:</p>
+
+<% if @count > 0%>
+
+<p>You can download the file <%= link_to "here", "/#{@filename}" %>
+</p>
+<% end %>
+<p>
+  Email Address:
+  <%= @email %>
+</p>
+<p>
+  POP Mail Server:
+  <%= @server %>  
+</p>
+<p>POP Username:
+  <%= @username %></p>
+<p>POP Password:
+  <%= @password %></p>
+<p>Use SSL? <%= @ssl ? "yes" : "no" %></p>
+<p>Port:
+  <%= @port %></p>
+  
+<% else %>
+
+<p>There was an error contacting the server or downloading your email.</p>
+
+<% end %>
